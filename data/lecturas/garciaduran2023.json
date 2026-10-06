@@ -1,0 +1,84 @@
+{
+  "id": "garciaduran2023",
+  "modulos": ["M4"],
+  "tipo": "obligatoria",
+  "autor": "García Durán, Mauricio, S.J.",
+  "autorCorto": "García Durán",
+  "anio": 2023,
+  "titulo": "Estudio introductorio: Claves para una lectura de iniciativas de paz en Aguablanca",
+  "obra": "Paz en Aguablanca. Aproximaciones en proceso sobre los esfuerzos comunitarios para una convivencia posible y deseable en el oriente de Cali (C. A. Tobar, Ed.)",
+  "editorial": "Pontificia Universidad Javeriana Cali",
+  "paginas": "17-54",
+  "notaPaginas": "El syllabus indica pp. 17-52. El texto efectivo va de la p. 19 a la 49 y las referencias ocupan las pp. 50-54.",
+  "formato": "digital",
+  "metodoLectura": "Lectura del texto extraído del PDF, con páginas impresas (coinciden con las del PDF).",
+  "resumen": "Estudio introductorio que funciona como marco teórico del libro Paz en Aguablanca. Pone en diálogo el debate colombiano e internacional sobre la construcción de paz desde abajo y lo vuelve operativo en macroprocesos, estrategias y acciones.",
+  "tesis": "La paz desde abajo en Aguablanca no se puede leer solo con el localismo colombiano ni solo con los estudios de paz del Norte: hace falta un diálogo crítico entre ambos (pp. 21, 24). Ese diálogo muestra que esta paz está condicionada por violencias urbanas ligadas a economías ilegales, exclusión y racismo (pp. 30-33). Combina paz negativa (autoprotección, resistencia) y paz positiva (vida digna), y por eso es siempre una paz imperfecta (pp. 23, 27). Se vuelve operativa en tres niveles: macroprocesos, estrategias y acciones (pp. 34-35, 49). Solo es sostenible si se articula, de forma asimétrica, con los niveles medio y alto de liderazgo (pp. 28-30).",
+  "estructura": [
+    {"seccion": "Portada del capítulo", "paginas": "19"},
+    {"seccion": "Introducción: los tres casos y el reto de dialogar entre marcos nacional e internacional", "paginas": "20-21"},
+    {"seccion": "1. Ubicación del debate académico sobre la construcción de paz desde abajo", "paginas": "22-30"},
+    {"seccion": "2. Contextos de violencia urbanos como determinantes en la definición de una paz desde abajo", "paginas": "30-34"},
+    {"seccion": "3. Macroprocesos operativos en la construcción de paz desde abajo", "paginas": "34-42"},
+    {"seccion": "4. Estrategias y acciones para la construcción de paz desde abajo (Tabla 1)", "paginas": "42-49"},
+    {"seccion": "Conclusiones", "paginas": "49"},
+    {"seccion": "Referencias", "paginas": "50-54"}
+  ],
+  "conceptos": [
+    {"termino": "Construcción de paz desde abajo", "definicion": "Término paraguas que reúne denominaciones colombianas como paz desde la base, paces desde abajo, resistencia pacífica o autonomía civil. Se analiza por dos énfasis: el lugar social de quienes la hacen (sectores subalternos) y su objetivo (autoprotección o alternativas de vida digna).", "pagina": "21-23"},
+    {"termino": "Doble proceso top-down / bottom-up", "definicion": "El proceso de arriba hacia abajo es político (confianza cívica, reciprocidad democrática) y el de abajo hacia arriba es cultural e interpersonal. Hay que mantener los dos polos, lo que lleva a enfoques integrados e híbridos.", "pagina": "24-25"},
+    {"termino": "Paz imperfecta", "definicion": "Tomada de Muñoz (2003): las iniciativas de base conviven con la violencia y construyen de forma parcial dimensiones de una paz integral. El autor ubica las iniciativas en un espectro minimalista a maximalista, desde la reconciliación delgada hasta la gruesa (Chapman).", "pagina": "26-27"},
+    {"termino": "Construcción de paz asimétrica", "definicion": "Idea tomada de Galo Bilbao: no se debe equiparar a los agentes de arriba con los de abajo. Las comunidades necesitan atención diferenciada para empoderarse, al contrario del modelo clásico de resolución de conflictos que supone partes iguales.", "pagina": "28"},
+    {"termino": "Actores bisagra o anfibios", "definicion": "Líderes intermedios que tienden puentes hacia la cúpula. Incluye a investigadores con un pie en el acompañamiento y otro en la academia, categoría que viene de debates en el CINEP.", "pagina": "29"},
+    {"termino": "Violencias urbanas y triángulo de Galtung", "definicion": "En Aguablanca la violencia directa viene de bandas, pandillas y economías ilegales; la estructural, de pobreza, exclusión y represión; la cultural, del racismo y el patriarcado. Las comunidades viven en cooptación y coexistencia forzada con los grupos armados.", "pagina": "30-33"},
+    {"termino": "Lugar, seguridad y voz", "definicion": "Siguiendo a Lederach y Lederach (2014), las comunidades en conflictos prolongados enfrentan tres retos (desplazamiento, inseguridad y carencia de voz) que se leen con tres submetáforas: lugar, seguridad y voz.", "pagina": "33"},
+    {"termino": "Cuatro macroprocesos (nivel macro)", "definicion": "A. Temporalidad: pasado (verdad), presente (justicia) y futuro (misericordia y esperanza), más la maduración organizativa. B. Espacialidad: márgenes urbanos y rurales, giro local y geografía crítica de paz. C. Resiliencia, resistencia y reexistencia. D. Integralidad de niveles de paz y reconciliación (con uno mismo, con Dios o lo que dé sentido, interpersonal, sociopolítica y ambiental). No tienen que darse a la vez.", "pagina": "34-42"},
+    {"termino": "Resiliencia, resistencia y reexistencia", "definicion": "Resiliencia es sanación social basada en la comunidad, con eco entre lo micro y lo macro. Resistencia civil es acción no violenta, colectiva y organizativa basada en la no colaboración. Reexistencia es afirmar e inventar cada día formas de ser y estar en el territorio (Parrado).", "pagina": "38-41"},
+    {"termino": "Tabla 1: ocho estrategias (nivel meso) y sus acciones (nivel micro)", "definicion": "(1) Educación y formación; (2) protección y contención; (3) sanación de heridas, reconciliación y restauración de relaciones; (4) cohesión social y reconstrucción de acuerdos sobre la vida colectiva; (5) empoderamiento y agencia para la realineación de asimetrías; (6) organización y coordinación de iniciativas; (7) protesta y resistencia civil; (8) agencia política, incidencia y comunicación pública. Sintetiza cuatro fuentes colombianas y tres internacionales.", "pagina": "47-48"},
+    {"termino": "Construcción de paz en todo el ciclo del conflicto", "definicion": "Peacekeeping (incluido el civil), peacemaking y peacebuilding pueden darse a la vez en Colombia. No hay que esperar al posconflicto para construir paz.", "pagina": "33-34"}
+  ],
+  "evidente": [
+    "El capítulo propone entender la paz desde abajo poniendo el debate académico colombiano e internacional en diálogo con las experiencias de Aguablanca, y sostiene que los conceptos internacionales no pueden descartarse por colonialistas (p. 21).",
+    "Las comunas 13, 14, 15 y 21 de Cali tienen los homicidios acumulados más altos de la ciudad entre 2015 y abril de 2022 (809, 832, 948 y 638), y la Policía no garantiza la seguridad en esos contextos (pp. 30-32).",
+    "El modelo opera en tres niveles: cuatro macroprocesos, ocho estrategias y un conjunto de acciones, con una secuencia implícita que va de sanar y formar a organizarse e incidir en políticas públicas (pp. 34-35, 47-49).",
+    "El autor reconoce que falta valorar el efecto de cada estrategia y que algunas acciones dependen de aliados externos como la academia, las ONG o las iglesias (pp. 47-48)."
+  ],
+  "noEvidente": [
+    {"titulo": "Marco teórico más que estudio empírico", "texto": "El estudio introductorio casi no trabaja los casos del libro, salvo en la presentación inicial (p. 20). La Tabla 1 no se aplica a Aguablanca y no hay método ni entrevistas. Es un texto más conceptual que empírico.", "inferencia": true},
+    {"titulo": "Categorías rurales trasladadas a la ciudad", "texto": "El texto usa categorías pensadas para el conflicto armado rural y el movimiento por la paz (comunidades de paz, proyecto Nasa, AMA, p. 34). Trata las violencias urbanas como resultado directo de los grupos armados (p. 31), lo que deja en segundo plano su lógica propia.", "inferencia": true},
+    {"titulo": "El Estado en tres papeles", "texto": "El Estado aparece como garante fallido, como victimario (represión en el Paro de 2021) y como interlocutor necesario para la sostenibilidad (pp. 30, 32, 48). La tensión entre una paz cotidiana ajena a la construcción del Estado y la necesidad de conectar con él queda abierta.", "inferencia": true},
+    {"titulo": "Riesgo de romantizar lo local", "texto": "El autor menciona rivalidades internas, cooptación y el riesgo de legitimar a pocos líderes (pp. 26, 28-29, 32). Aun así, el lenguaje de resiliencia y reexistencia tiende a una lectura celebratoria. La resiliencia también puede trasladar a la comunidad la responsabilidad del Estado, algo que el texto no advierte.", "inferencia": true},
+    {"titulo": "Diálogo crítico con canon dominante", "texto": "Se proclama un diálogo entre lo colombiano y lo internacional y se cita a autores decoloniales como Parrado. Pero el modelo se arma casi todo con Lederach, Galtung, Chapman y Paffenholz.", "inferencia": true},
+    {"titulo": "Omisiones de género, raza y estallido social", "texto": "No hay análisis de masculinidades pese a que el actor violento central son hombres jóvenes en pandillas. El racismo se menciona (pp. 32-33) pero no se articula la condición afro de Aguablanca. El Paro de 2021 coincide con el trabajo de campo y solo aparece como ejemplo de represión (p. 32).", "inferencia": true},
+    {"titulo": "Posición del autor como acompañante", "texto": "El autor firma como jesuita, usa marcos del Programa por la Paz, el JRS y Schreiter, e incluye la dimensión de paz con Dios (pp. 19, 41, 44). Defiende el papel de aliados externos como la universidad y la Iglesia (pp. 29, 48), lo que legitima su propio rol de actor bisagra sin discutir ese conflicto de rol.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "son iniciativas de construcción de una paz imperfecta (Muñoz, 2003)", "pagina": "27"},
+    {"texto": "la Fuerza Pública, y en particular la Policía, no son garantía de seguridad en estos contextos", "pagina": "31-32"},
+    {"texto": "La reconciliación no es un estado paradisíaco de paz y amor en el que todos son uno", "pagina": "35"},
+    {"texto": "No existe, por lo tanto, una sola idea de paz, ni, obviamente, una única manera de promoverla y practicarla", "pagina": "42"}
+  ],
+  "cruces": [
+    {"con": "lederach1998", "texto": "El capítulo usa de forma explícita la pirámide de tres niveles (pp. 27-28), la tétrada verdad, justicia, misericordia y paz (p. 36) y la idea de un proyecto compartido (p. 38). La apuesta por los actores bisagra corresponde al nivel medio de Lederach, aunque el foco sigue en la base.", "inferencia": false},
+    {"con": "mouly2022", "texto": "Mouly no se cita, pero su uso de paz negativa, paz positiva y violencia estructural coincide con el de Galtung en el capítulo (pp. 26, 32-33). Desde Mouly se puede discutir que el texto llame paz negativa a la autoprotección y la resistencia, que son repertorios de acción y no ausencia de violencia.", "inferencia": true},
+    {"con": "garciaduran2018", "texto": "El artículo de 2018 está en las referencias (p. 50) aunque no se cita en el cuerpo. Su idea de la reconciliación como reto ético y político está detrás de la tensión entre reconciliación delgada y gruesa y de la noción de asimetría.", "inferencia": true},
+    {"con": "castillo2018", "texto": "Los textos de género del curso permiten llenar una omisión: leer la violencia pandillera como producción de masculinidades en contextos de exclusión racializada. También ayudan a evitar que la paz con rostro de mujer (p. 42) se vuelva esencialista.", "inferencia": true},
+    {"con": "arendt1993", "texto": "El capítulo sigue a Villa: el perdón corresponde solo a las víctimas (p. 44). Arendt ve el perdón como facultad política ligada a la promesa, con un límite en lo imperdonable, lo que obliga a preguntar si cabe perdonar a pandillas que siguen activas.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué el autor afirma que las iniciativas de Aguablanca son paces imperfectas y cómo se relaciona esto con la paz negativa y positiva y con la reconciliación delgada y gruesa?", "orientacion": "Las iniciativas conviven con la violencia y construyen dimensiones parciales de una paz integral (p. 27). Combinan autoprotección y resistencia con apuestas de vida digna y cambio estructural, y se ubican en un espectro minimalista a maximalista (pp. 26-27). Conviene discutir si llamar paz negativa a la resistencia es preciso."},
+    {"pregunta": "Explique el papel de la pirámide de Lederach y de la noción de asimetría en el argumento. ¿Qué riesgos señala el autor para los acompañantes externos?", "orientacion": "Las iniciativas están en la base y necesitan puentes con actores bisagra y con la cúpula (pp. 27-30). La asimetría prioriza el empoderamiento de la base (p. 28). Los riesgos son legitimar a un grupo reducido de líderes y descuidar los juegos de poder internos (pp. 28-29)."},
+    {"pregunta": "¿Cómo caracteriza el capítulo las violencias en Aguablanca y qué consecuencias tiene para pensar la paz urbana?", "orientacion": "Usa el triángulo de Galtung y cifras de homicidios por comuna (pp. 30-33). La paz se construye en medio del conflicto y en coexistencia forzada con los armados (p. 32). Se puede discutir si leer la violencia urbana como resultado directo del conflicto armado (p. 31) oculta su lógica propia."},
+    {"pregunta": "Describa los cuatro macroprocesos y muestre cómo se concretan en las estrategias y acciones de la Tabla 1.", "orientacion": "Temporalidad, espacialidad, resiliencia/resistencia/reexistencia e integralidad son el nivel macro (pp. 34-42). La Tabla 1 los baja a ocho estrategias y sus acciones (pp. 47-48). Por ejemplo, la resistencia se concreta en protesta y resistencia civil, y la temporalidad en memoria y reconstrucción de acuerdos."},
+    {"pregunta": "¿Qué lugar ocupan la reconciliación y el perdón en este modelo y qué críticas pueden hacérsele?", "orientacion": "La reconciliación es un proceso incómodo de cooperación entre antiguos enemigos (Bloomfield, p. 35) y se articula con verdad, justicia, misericordia y paz (p. 36). Para Villa el perdón es atributo de las víctimas (p. 44). La crítica: no se define quiénes deben reconciliarse en un barrio donde los victimarios son vecinos y siguen activos."}
+  ],
+  "ejes": {
+    "paz": "Paz desde abajo, imperfecta e híbrida, que combina protección frente a la violencia directa y búsqueda de vida digna o vivir sabroso (pp. 23, 27).",
+    "actores": "Líderes de base de cuatro organizaciones de Aguablanca, actores bisagra (incluida la academia), el Estado y grupos armados urbanos como bandas, pandillas y oficinas de cobro (pp. 15, 29, 31).",
+    "poder": "La paz debe ser asimétrica para empoderar a la base frente a la cúpula (p. 28). El texto reconoce rivalidades internas y cooptación por grupos armados (pp. 28-29, 32).",
+    "genero": "Menciona esquemas patriarcales, violencias contra mujeres y personas LGBTI y una paz con rostro de mujer (pp. 32-33, 42), sin enfoque de género sistemático.",
+    "reconciliacion": "Es un proceso incómodo, no un estado paradisíaco (p. 35). Va de la versión delgada (convivencia mínima) a la gruesa (justicia y equidad) (pp. 26-27).",
+    "tiempo": "Pasado (verdad), presente (justicia) y futuro (misericordia y esperanza), más la maduración organizativa que puede tomar años (pp. 36-37). La paz se construye en todas las fases del conflicto (pp. 33-34)."
+  },
+  "palabrasClave": ["paz desde abajo", "paz imperfecta", "Aguablanca", "violencias urbanas", "asimetría", "actores bisagra", "macroprocesos", "resiliencia", "reexistencia", "estrategias de paz"]
+}

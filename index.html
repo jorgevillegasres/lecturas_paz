@@ -1,3 +1,81 @@
 <!doctype html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lecturas de paz</title></head>
-<body><p>Sitio en construcción.</p></body></html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lecturas de paz</title>
+  <meta name="description" content="Guía interactiva de las lecturas del curso de construcción de paz y reconciliación: fichas, ejes comparativos, debates, talleres y repaso.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23225c4f'/%3E%3Cpath d='M9 22V10h4.5a4 4 0 0 1 0 8H9' fill='none' stroke='white' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='22' cy='20' r='3' fill='%23e8b04b'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <header class="topbar">
+    <button class="icon-btn menu-btn" id="menuBtn" aria-label="Abrir menú" aria-expanded="false">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+    <a class="brand" href="#/">
+      <span class="brand-mark" aria-hidden="true">P</span>
+      <span class="brand-text">Lecturas de paz</span>
+    </a>
+    <button class="search-trigger" id="searchBtn" aria-label="Buscar en las lecturas">
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <span>Buscar</span>
+      <kbd>Ctrl K</kbd>
+    </button>
+    <div class="top-actions">
+      <label class="switch" title="Mostrar u ocultar las interpretaciones que no están en el texto">
+        <input type="checkbox" id="infToggle" checked>
+        <span class="switch-track" aria-hidden="true"></span>
+        <span class="switch-label">Inferencias</span>
+      </label>
+      <button class="icon-btn" id="themeBtn" aria-label="Cambiar tema claro u oscuro">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Navegación principal">
+      <div class="nav-group">
+        <a href="#/" data-nav="inicio">Inicio</a>
+        <a href="#/metodologia" data-nav="metodologia">Metodología</a>
+      </div>
+      <div class="nav-group">
+        <p class="nav-title">Módulos</p>
+        <div id="navModulos"></div>
+      </div>
+      <div class="nav-group">
+        <p class="nav-title">Comparar</p>
+        <a href="#/ejes" data-nav="ejes">Ejes transversales</a>
+        <a href="#/mapa" data-nav="mapa">Mapa de conexiones</a>
+        <a href="#/debates" data-nav="debates">Debates</a>
+        <a href="#/glosario" data-nav="glosario">Glosario</a>
+      </div>
+      <div class="nav-group">
+        <p class="nav-title">Practicar</p>
+        <a href="#/talleres" data-nav="talleres">Talleres</a>
+        <a href="#/repaso" data-nav="repaso">Repaso</a>
+        <a href="#/errores" data-nav="errores">Errores frecuentes</a>
+      </div>
+    </nav>
+    <div class="scrim" id="scrim" hidden></div>
+    <main id="main" class="main" tabindex="-1">
+      <div class="loading">Cargando lecturas…</div>
+    </main>
+  </div>
+
+  <div class="search-modal" id="searchModal" hidden role="dialog" aria-modal="true" aria-label="Buscar">
+    <div class="search-box">
+      <input type="search" id="searchInput" placeholder="Busca un concepto, autor o idea…" autocomplete="off">
+      <div class="search-results" id="searchResults"></div>
+      <p class="search-hint">Enter abre el primer resultado · Esc cierra</p>
+    </div>
+  </div>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+{
+  "id": "gallego2023",
+  "modulos": ["M3"],
+  "tipo": "obligatoria",
+  "autor": "Gallego, G.",
+  "autorCorto": "Gallego",
+  "anio": 2023,
+  "titulo": "Robar el alma. Masculinidades y violencia sexual contra hombres en el marco del conflicto armado colombiano",
+  "obra": null,
+  "editorial": "Editorial Universidad de Caldas",
+  "paginas": "71-104",
+  "notaPaginas": "Todo el tramo pertenece al capítulo 1 (marco conceptual), que empieza antes de la p. 71; el texto corrido termina en la p. 103. La p. 104 es un testimonio que sirve de epígrafe al capítulo 2. Las pp. 80 y 82 no traen número impreso, pero la secuencia es continua.",
+  "formato": "escaneado",
+  "metodoLectura": "Lectura visual página por página de las 34 imágenes del escaneo, todas legibles.",
+  "resumen": "Gallego explica la violencia sexual contra hombres en el conflicto colombiano como expresión de una masculinidad hegemónica militarizada. También analiza por qué estos casos han sido invisibles en instituciones, normas e investigaciones.",
+  "tesis": "La violencia sexual contra hombres en el conflicto no es un hecho aislado. Expresa una masculinidad hegemónica militarizada que radicaliza mandatos patriarcales anteriores a la guerra y subordina otras masculinidades por feminización o emasculación, hasta expropiarlas de su identidad y su subjetividad (pp. 81, 91). Esa violencia funciona como lenguaje de honor viril y de derrota del enemigo: el agresor no la vive como homosexualidad sino como castigo, y la víctima queda en la abyección, fuera de lo humano (pp. 102-103). Como tesis secundaria, el autor sostiene que la invisibilidad de los hombres víctimas viene de los estereotipos y de un sesgo de género en quienes investigan (p. 72). Tratar por separado la violencia contra hombres y contra mujeres sería un \"error de interpretación y de cálculo\", porque comparten matriz de género (p. 77).",
+  "estructura": [
+    {"seccion": "Cierre de la sección sobre violencia sexual como mecanismo de terror (finalidades según Moser)", "paginas": "71"},
+    {"seccion": "La violencia sexual y la visibilización de los hombres en los discursos", "paginas": "71-78"},
+    {"seccion": "Patriarcado y masculinidad hegemónica", "paginas": "78-86"},
+    {"seccion": "Masculinidad hegemónica militarizada y habitus guerrero", "paginas": "86-103"},
+    {"seccion": "Testimonio (epígrafe del capítulo 2)", "paginas": "104"}
+  ],
+  "conceptos": [
+    {"termino": "Finalidades de la violencia sexual como terror (Moser)", "definicion": "Erosionar el capital social y productivo de la comunidad, deteriorar la gobernabilidad, mermar la organización política y menoscabar las relaciones familiares. Es una estrategia colectiva y territorial.", "pagina": "71"},
+    {"termino": "Sesgo de género en la investigación", "definicion": "La invisibilidad de los hombres víctimas se debe también a quienes investigan y documentan. El CNMH no hizo trabajo de campo con hombres aunque había más de 1.000 casos registrados.", "pagina": "72"},
+    {"termino": "\"Violencia de género\" como concepto blindado", "definicion": "La categoría se usa como si solo se refiriera a mujeres. En la Ley 1719 de 2014, \"persona\" funciona como sinónimo de \"mujer\".", "pagina": "73, 76"},
+    {"termino": "Masculinidad (Connell, Viveros)", "definicion": "Sistema de disposiciones relacional, no atado a cuerpos de varón, que también pueden ejercer las mujeres. Es un proyecto de género histórico y contradictorio.", "pagina": "79-80"},
+    {"termino": "Poder y dolor (Kaufman)", "definicion": "El poder masculino da privilegios y al mismo tiempo produce dolor y alienación en los propios hombres.", "pagina": "80"},
+    {"termino": "Masculinidad hegemónica", "definicion": "Prácticas que legitiman el patriarcado y que requieren correspondencia entre ideal cultural y poder institucional. En Colombia sus ejes son el éxito económico, la heterosexualidad activa, la condición blanco-mestiza y urbana y la autoridad familiar.", "pagina": "83-84"},
+    {"termino": "Subordinación, complicidad y marginalización (Connell)", "definicion": "Patrones de relación entre masculinidades. El autor advierte que es reduccionista igualar combatientes con hegemónicos, víctimas con subordinados y población con cómplices.", "pagina": "89-90"},
+    {"termino": "Feminización y emasculación", "definicion": "Las dos vías por las que se subordina a otras masculinidades. El patrón es anterior a la guerra, que lo exagera y le añade crueldad, invulnerabilidad e insensibilidad.", "pagina": "91"},
+    {"termino": "Habitus guerrero", "definicion": "Disposiciones que llevan a los jóvenes a la guerra como mercado laboral, formadas por la cohabitación con grupos armados, los modelos de combatiente y el maltrato familiar. Las mujeres también pueden adquirirlo.", "pagina": "92-95"},
+    {"termino": "Pedagogía de la crueldad (Segato)", "definicion": "Tecnología de género que aniquila la empatía. El autor describe una masculinidad paramilitar misógina y homofóbica y una fariana homofóbica y heterosexista.", "pagina": "99-100"},
+    {"termino": "Abyección", "definicion": "Lugar al que la violencia sexual arroja a la víctima: fuera de lo humano, sin distinción. El agresor no la vive como homosexualidad porque no considera a la víctima un verdadero hombre.", "pagina": "102-103"}
+  ],
+  "evidente": [
+    "El autor afirma que la violencia sexual contra hombres ha sido invisible por la vergüenza, por un estereotipo que hace incompatible ser víctima con ser hombre y por sesgos del CNMH, la Comisión de la Verdad y la Ley 1719 (pp. 72-76).",
+    "Propone como hipótesis central que en Colombia persiste una masculinidad hegemónica \"bélica, guerrerista, militarizada\" que subordina a otras masculinidades (p. 81).",
+    "Explica que la guerra no inventa esa jerarquía de género sino que la radicaliza mediante el militarismo, el habitus guerrero y la disciplina militar (pp. 88-98)."
+  ],
+  "noEvidente": [
+    {"titulo": "Una matriz común sostenida con teoría", "texto": "El autor afirma que la violencia contra mujeres, personas LGBT y hombres comparte raíz (p. 77). En este tramo esa tesis se apoya en teoría y no en datos propios.", "inferencia": true},
+    {"titulo": "El problema sigue en el posconflicto", "texto": "Si la guerra exagera una masculinidad que ya existía (p. 91), esa masculinidad no desaparece con la firma de la paz. Además, rutas de reparación centradas en la mujer pueden no alcanzar a los hombres víctimas.", "inferencia": true},
+    {"titulo": "Visibilizar sin competir", "texto": "El autor aclara que reconocer a los hombres no niega lo estructural (p. 74). A la vez acusa a la Comisión de la Verdad de un enfoque \"feminista, más que de género\", una afirmación que se apoya en una conversación personal (n. 14).", "inferencia": true},
+    {"titulo": "El riesgo de la lectura homoerótica", "texto": "El texto atribuye a la violencia sexual entre hombres un \"carácter homoerótico\" (p. 102) y aplaza el análisis al capítulo 3. Esa lectura puede reforzar el estigma que asocia violación y homosexualidad, que es parte de lo que silencia a las víctimas.", "inferencia": true},
+    {"titulo": "Víctima y victimario en el mismo registro", "texto": "La n. 21 sostiene que víctima y victimario comparten registro de masculinidad. Sirve para explicar ciclos de violencia, pero es delicado para la justicia porque puede diluir la responsabilidad individual.", "inferencia": true},
+    {"titulo": "Omisiones del marco", "texto": "No analiza a los agentes estatales como perpetradores, aunque la Comisión de la Verdad los menciona (p. 73). Usa estadísticas sin desagregar o ajenas al conflicto, como Forensis (p. 74). La voz de las víctimas y la reparación quedan fuera de este tramo.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "la condición de víctima no parece compatible con la idea de masculinidad", "pagina": "72"},
+    {"texto": "existe un sesgo de género en las personas que investigan y documentan los casos de violencia sexual", "pagina": "72"},
+    {"texto": "tienden a subordinar a otros tipos de masculinidades expropiándolas de su identidad, de su subjetividad", "pagina": "81"},
+    {"texto": "cuando se violenta el cuerpo de un enemigo varón no se menciona la homosexualidad, sino el castigo y la derrota", "pagina": "103"}
+  ],
+  "cruces": [
+    {"con": "rojas2012", "texto": "Rojas menciona las masculinidades (p. 441) y a los hombres víctimas (p. 444, n. 6) sin desarrollo. Gallego hace el desarrollo que allí falta para Colombia.", "inferencia": true},
+    {"con": "castillo2018", "texto": "Los dos leen la violencia como castigo a la diferencia (\"erradicar la diferencia\", p. 98). Gallego añade que el hombre heterosexual violentado queda en el mismo lugar abyecto al que se envía a las personas LGBT.", "inferencia": true},
+    {"con": "mouly2022", "texto": "El habitus guerrero, la figura del héroe (p. 95) y la seguridad democrática (p. 88) pueden leerse como violencia cultural que legitima la violencia directa.", "inferencia": true},
+    {"con": "lederach1998", "texto": "Las finalidades de Moser describen daño en la base: tejido social, organización y familia. La reconciliación requeriría espacios donde los hombres puedan reconocerse como víctimas.", "inferencia": true},
+    {"con": "garciaduran2018", "texto": "El habitus formado desde el maltrato infantil (p. 94) y la n. 21 ilustran el ciclo víctima-agresor con una matriz de género.", "inferencia": true},
+    {"con": "garciaduran2023", "texto": "La guerra como mercado laboral juvenil (p. 93) y la marginalización por raza y clase (p. 90) sirven para leer masculinidades juveniles urbanas violentas, como en Aguablanca.", "inferencia": true},
+    {"con": "arendt1993", "texto": "Un daño que expulsa de lo humano (p. 103) se acerca a la idea de mal radical. Además, castigar o perdonar exige que el hecho se nombre primero, y la invisibilidad lo impide.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué ha sido invisible la violencia sexual contra hombres si había registros?", "orientacion": "Hay tres niveles: el cultural (vergüenza e incompatibilidad entre ser víctima y la masculinidad, p. 72), el institucional (el CNMH y la Comisión de la Verdad, con más de 1.000 casos registrados, pp. 72-73) y el normativo (\"persona\" leída como \"mujer\", pp. 73, 76). Se puede cerrar con la tensión de visibilizar sin restar a las mujeres (p. 74)."},
+    {"pregunta": "¿Qué es la masculinidad hegemónica militarizada y en qué se diferencia de la masculinidad hegemónica?", "orientacion": "La hegemónica, según Connell, legitima el patriarcado y tiene ejes propios en Colombia (pp. 83-84). La militarizada los radicaliza y agrega crueldad, invulnerabilidad e insensibilidad mediante el militarismo, el habitus guerrero y la disciplina militar (pp. 88-98). Exagera una jerarquía previa (p. 91)."},
+    {"pregunta": "¿Cómo resuelve el autor la paradoja de que una masculinidad homofóbica produzca violencia sexual entre hombres?", "orientacion": "La violencia funciona como lenguaje expresivo de honor y derrota (pp. 97, 102-103). La víctima no es vista como un verdadero hombre y la abyección la saca de lo humano. El autor apunta además a una tensión homosocial (pp. 101-102). Se puede criticar el riesgo de reforzar el estigma."},
+    {"pregunta": "¿Cómo se conectan las finalidades de Moser con el daño comunitario y con la reconciliación según Lederach?", "orientacion": "Moser describe daños al capital social, la gobernabilidad, la organización política y la familia (p. 71). Eso ubica el daño en el nivel de base de la pirámide. La conexión con Lederach es una inferencia del lector y no está en el texto."},
+    {"pregunta": "¿La idea de que víctima y victimario están en el mismo registro de masculinidad (n. 21) ayuda o complica la justicia transicional?", "orientacion": "Ayuda a explicar ciclos de violencia y a pensar la prevención cultural (pp. 93-95). Complica porque puede diluir la responsabilidad individual. Una buena respuesta separa la explicación estructural de la responsabilidad de cada perpetrador."}
+  ],
+  "ejes": {
+    "paz": "La paz exige transformar la masculinidad militarizada, porque la guerra solo exagera una jerarquía de género previa (p. 91).",
+    "actores": "Hombres víctimas, grupos paramilitares, FARC, instituciones como el CNMH y la Comisión de la Verdad, y la ONU (pp. 72-76, 91-100).",
+    "poder": "La masculinidad hegemónica subordina y marginaliza a otras, y la violencia sexual comunica autoridad sobre otros hombres y territorios (pp. 89-91, 97).",
+    "genero": "El género incluye a los hombres: la violencia contra hombres y contra mujeres comparte matriz (p. 77).",
+    "reconciliacion": "El texto no la trata directamente. La invisibilidad de las víctimas hombres impide nombrar el daño, condición previa para repararlo.",
+    "tiempo": "Se basa en fuentes de 2014 a 2022 (Ley 1719, CNMH 2017, Comisión de la Verdad 2022) y analiza el conflicto armado reciente."
+  },
+  "palabrasClave": ["violencia sexual contra hombres", "masculinidad hegemónica", "masculinidad militarizada", "habitus guerrero", "feminización", "emasculación", "pedagogía de la crueldad", "abyección", "subregistro"]
+}

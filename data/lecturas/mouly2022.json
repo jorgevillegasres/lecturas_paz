@@ -1,0 +1,89 @@
+{
+  "id": "mouly2022",
+  "modulos": ["M1-2"],
+  "tipo": "obligatoria",
+  "autor": "Mouly, Cécile",
+  "autorCorto": "Mouly",
+  "anio": 2022,
+  "titulo": "Conceptos y teorías",
+  "obra": "Estudios de paz y conflictos: teoría y práctica (cap. 2)",
+  "editorial": null,
+  "paginas": "13-52",
+  "notaPaginas": "Rango asignado pp. 13-52, que corresponde a las págs. 35-74 del PDF (página impresa = página PDF menos 22). El texto del capítulo termina con referencias y sitios web en las pp. 46-51.",
+  "formato": "digital",
+  "metodoLectura": "Texto extraído del PDF y leído completo, con páginas convertidas a la numeración impresa.",
+  "resumen": "Capítulo base del libro: define conflicto, violencia, conflicto armado y paz, y ordena el campo en cuatro corrientes con sus fortalezas y límites. La autora toma posición por la transformación pacífica de conflictos.",
+  "tesis": "Mouly sostiene que el conflicto es normal y motor de cambio social, y que lo indeseable es su expresión violenta (pp. 14, 18). La paz es plural, construida socialmente y procesual (pp. 23-25). Clasifica el campo en cuatro corrientes (estrategista, estudios de conflictos, estudios de paz y estudios críticos), que presenta como categorías ideales que en la práctica se combinan (pp. 26, 42). Su postura explícita es la \"transformación pacífica de conflictos\", porque \"resolución\" ignora lo estructural y lo relacional y \"transformación\" a secas no indica dirección (pp. 37-39).",
+  "estructura": [
+    {"seccion": "Presentación del capítulo", "paginas": "13"},
+    {"seccion": "1.1 Conflicto (simetría, triángulo ABC, fig. 2.1)", "paginas": "14-16"},
+    {"seccion": "1.2 Violencia (fig. 2.2)", "paginas": "16-19"},
+    {"seccion": "1.3 Conflicto armado (tipología, umbrales, mapa 2.1)", "paginas": "19-23"},
+    {"seccion": "1.4 Paz (negativa y positiva, imperfecta, triángulo de la paz, cotidiana)", "paginas": "23-25"},
+    {"seccion": "2. Teorías: origen del campo y cuatro corrientes", "paginas": "25-27"},
+    {"seccion": "2.1 Escuela realista o enfoque estrategista", "paginas": "27-28"},
+    {"seccion": "2.2 Núcleo pluralista y cosmopolita", "paginas": "28-29"},
+    {"seccion": "2.2.1 Estudios de conflictos (figs. 2.4-2.6)", "paginas": "29-35"},
+    {"seccion": "2.2.2 Estudios de paz", "paginas": "35-39"},
+    {"seccion": "2.3 Estudios críticos de paz y conflictos", "paginas": "39-42"},
+    {"seccion": "2.4 Síntesis comparativa y Tabla 2.1", "paginas": "42-45"},
+    {"seccion": "Referencias y sitios web (UCDP, COW, ACLED, Escola de Cultura de Pau)", "paginas": "46-51"}
+  ],
+  "conceptos": [
+    {"termino": "Conflicto", "definicion": "Oposición real o percibida de objetivos entre dos o más individuos o grupos, a cualquier escala. No tiene connotación negativa porque es esencial para el cambio social, y basta la percepción, aunque sea errónea.", "pagina": "14"},
+    {"termino": "Triángulo ABC", "definicion": "Modelo de Galtung con tres vértices que se retroalimentan: actitudes (A), comportamientos (B) y contradicciones (C). La incompatibilidad produce frustración y esta lleva a la violencia.", "pagina": "15"},
+    {"termino": "Violencia directa, estructural y cultural", "definicion": "La directa es el daño físico o psicológico infligido de forma directa. La estructural son estructuras desiguales que niegan derechos y reducen el potencial de realización. La cultural son discursos y símbolos que legitiman las otras dos.", "pagina": "16-17"},
+    {"termino": "Conflicto armado", "definicion": "Mouly adopta el criterio político del UCDP: conflicto violento político que supera la capacidad policial, enfrentado por las fuerzas armadas, con al menos 25 muertes. La guerra empieza en 1.000 muertes al año.", "pagina": "19-21"},
+    {"termino": "Paz negativa y paz positiva", "definicion": "La negativa es la ausencia de violencia directa. La positiva es la ausencia de las tres violencias; es utópica y por eso se entiende como proceso.", "pagina": "23"},
+    {"termino": "Paz imperfecta", "definicion": "Concepto de Muñoz según el cual paz y violencia coexisten. Incluye situaciones de \"no guerra, no paz\" y la paz dentro de la guerra que construyen comunidades locales.", "pagina": "23-24"},
+    {"termino": "Paz cotidiana", "definicion": "Paz vivida y localizada (Mac Ginty y Firchow), como salir de noche sin miedo. Se opone a las narrativas liberales universalistas, pero no es buena per se: puede reproducir violencia estructural y cultural.", "pagina": "24-25, 41"},
+    {"termino": "Necesidades humanas básicas", "definicion": "Teoría de Burton: el conflicto violento surge cuando las instituciones bloquean necesidades no materiales y no negociables, como identidad, seguridad y justicia.", "pagina": "29-30"},
+    {"termino": "Provención", "definicion": "Propuesta de Burton de atacar las fuentes del conflicto antes de que se vuelva violento, mediante cambios institucionales que aseguren las necesidades. Es lo más cercano a la prevención en el capítulo.", "pagina": "34-35"},
+    {"termino": "Peacekeeping, peacemaking y peacebuilding", "definicion": "Tríada de Galtung ligada al triángulo ABC: el mantenimiento actúa sobre B, el establecimiento sobre A y la construcción sobre C. Se refuerzan entre sí y apuntan a la paz positiva.", "pagina": "36-37"},
+    {"termino": "Transformación pacífica de conflictos", "definicion": "Término que Mouly prefiere frente a \"resolución\", que sugiere eliminar el conflicto y connota statu quo, y frente a \"transformación\" sin más, que no indica dirección.", "pagina": "37-39"},
+    {"termino": "Paz híbrida", "definicion": "Paz que surge de la interacción entre la oferta liberal internacional y lo local (Mac Ginty; Richmond).", "pagina": "41"}
+  ],
+  "evidente": [
+    "Mouly define los conceptos básicos del campo (conflicto, violencia, conflicto armado y paz) y luego clasifica las teorías en cuatro corrientes, resumidas en la Tabla 2.1 con fortalezas y debilidades (pp. 14-25, 43-45).",
+    "La autora afirma que una paz duradera exige reducir a la vez las tres formas de violencia, aunque reconoce con Jeong que la violencia estructural no produce violencia directa sin conciencia y movilización (pp. 17-18).",
+    "Mouly califica el acuerdo colombiano de 2016 como paz parcial, porque no todos los actores firmaron ni cesaron la violencia (p. 24).",
+    "El capítulo no define prevención ni gestión de conflictos y remite esos temas a los capítulos 3 a 8."
+  ],
+  "noEvidente": [
+    {"titulo": "La paz positiva sigue definida en negativo", "texto": "Aun la paz positiva aparece como ausencia de las tres violencias (p. 23). El capítulo no ofrece una definición afirmativa basada en justicia, relaciones o cooperación, salvo de paso con Lederach.", "inferencia": true},
+    {"titulo": "El criterio político tiene efectos normativos", "texto": "Separar lo político de lo criminal (p. 20) decide quién negocia y quién se somete. En la Colombia del posacuerdo esa frontera está en disputa (disidencias, ELN, Clan del Golfo), y Mouly no explora esa consecuencia.", "inferencia": true},
+    {"titulo": "Los umbrales de muertes ocultan violencias", "texto": "Los umbrales de 25 y 1.000 muertes dejan fuera violencias no letales centrales en Colombia: desplazamiento, confinamiento, violencia sexual, reclutamiento y desaparición.", "inferencia": true},
+    {"titulo": "Un solo tipo de poder", "texto": "La nota 1 distingue varias formas de poder, pero el capítulo usa solo el \"poder sobre\". Eso empobrece el análisis del poder con y el poder para de las iniciativas de base.", "inferencia": true},
+    {"titulo": "Sesgo Norte-Sur aplicado a medias", "texto": "La Tabla 2.1 acusa de sesgo Norte-Sur a los estudios de conflictos y de paz, pero no a los críticos, cuyos referentes (Richmond, Mac Ginty, Jabri, Pugh) también son del Norte. La genealogía del campo es anglo-escandinava y hay poca teoría latinoamericana propia.", "inferencia": true},
+    {"titulo": "Los supuestos de la naranja", "texto": "El ejemplo de la naranja funciona porque el bien es divisible, las partes son simétricas y hay una árbitra con autoridad. En conflictos asimétricos por tierra, el gana-gana puede encubrir despojo, que es la misma crítica que la tabla hace a los estudios de conflictos (p. 44).", "inferencia": true},
+    {"titulo": "2016 como paz insegura y polarizada", "texto": "Además de parcial, el acuerdo de 2016 puede leerse como paz insegura (asesinatos de líderes y firmantes), polarizada (plebiscito) y quizá recobrada, porque la Reforma Rural Integral aborda temas sin tocar la estructura agraria.", "inferencia": true},
+    {"titulo": "Ausencias temáticas", "texto": "No aparecen la reconciliación, el perdón, la justicia transicional ni las masculinidades como categoría. Lederach figura solo como scholar-practitioner y crítico de la palabra resolución (pp. 25, 37-38).", "inferencia": false}
+  ],
+  "citas": [
+    {"texto": "Un conflicto es la oposición real o percibida de objetivos entre dos o más individuos o grupos.", "pagina": "14"},
+    {"texto": "El conflicto es un fenómeno esencial para el cambio social. Por ello, el término no tiene connotación negativa.", "pagina": "14"},
+    {"texto": "la paz positiva es algo utópico debido a que ninguna sociedad está exenta de violencia estructural y cultural.", "pagina": "23"},
+    {"texto": "la 'paz cotidiana' no es normativamente buena, en el sentido de que puede reproducir formas de violencia estructural y cultural", "pagina": "41"}
+  ],
+  "cruces": [
+    {"con": "enciclopedia2004", "texto": "Mouly no define prevención ni gestión; la Enciclopedia sí lo hace (Romeva para prevención, Muñoz para la regulación pacífica). Allí también aparece la crítica a la paz positiva definida en negativo.", "inferencia": true},
+    {"con": "lederach1998", "texto": "La pirámide de Lederach encaja con el capítulo: el nivel 1 con el peacemaking de élites, el nivel 2 con los talleres de Kelman (p. 32) y el nivel 3 con la paz cotidiana. El marco integrado responde a la crítica del marco temporal limitado (p. 44).", "inferencia": true},
+    {"con": "arendt1993", "texto": "El perdón en Arendt rompe la irreversibilidad de la acción y dialoga con la transformación no lineal (p. 38). Tensiona el estructuralismo galtungiano, porque el capítulo no tematiza el perdón.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué Mouly prefiere hablar de transformación pacífica de conflictos?", "orientacion": "El conflicto es motor de cambio y lo que se combate es la violencia. Resolución ignora lo estructural, lo cultural y lo relacional y connota statu quo; transformación a secas carece de dirección (pp. 37-39)."},
+    {"pregunta": "Relacione el triángulo ABC con peacekeeping, peacemaking y peacebuilding y aplíquelo a Colombia.", "orientacion": "B corresponde al mantenimiento, A al establecimiento y C a la construcción (pp. 36-37). Para Colombia se puede proponer el mecanismo de monitoreo y verificación (B), La Habana (A) y la Reforma Rural Integral y la participación política (C), lo cual es una aplicación propia."},
+    {"pregunta": "¿En qué se diferencian la privación de necesidades y la violencia estructural, y por qué importa?", "orientacion": "La privación es absoluta y la violencia estructural es relativa. La desigualdad genera sentimiento de injusticia y por eso es más conflictógena. Además, Burton omite la violencia cultural (p. 36)."},
+    {"pregunta": "Compare paz positiva, imperfecta, cotidiana e híbrida. ¿Cuál sirve más para evaluar el posacuerdo?", "orientacion": "La positiva es utópica y procesual; la imperfecta admite que paz y violencia coexisten; la cotidiana es legítima pero no necesariamente buena; la híbrida es la interacción entre lo liberal y lo local. Conviene combinarlas con los tipos de Höglund y Söderberg (pp. 23-25, 41)."},
+    {"pregunta": "Evalúe la Tabla 2.1 desde la crítica feminista y la crítica a la paz liberal.", "orientacion": "Las corrientes críticas aportan reflexividad, atención al poder y al discurso, visibilización de las mujeres y la Res. 1325, y crítica al neoliberalismo; su debilidad es ser poco propositivas (pp. 39-45). Se puede señalar que la tabla no aplica a los críticos el sesgo Norte-Sur."}
+  ],
+  "ejes": {
+    "paz": "La paz es plural, construida socialmente y procesual; la autora distingue paz negativa, positiva, imperfecta, cotidiana e híbrida, y usa el triángulo de la paz de Höglund y otros (pp. 23-25, 41).",
+    "actores": "Los conflictos pueden tener más de dos partes (en Colombia al menos fuerza pública, guerrillas y paramilitares) y conflictos solapados dentro de un mismo conflicto armado (pp. 14, 22-23).",
+    "poder": "Los conflictos son simétricos o asimétricos según el reparto del poder, y el capítulo usa sobre todo el poder sobre (pp. 14-15). En la asimetría, el fuerte no tiene incentivos para ceder (Tabla 2.1).",
+    "genero": "La inequidad de género aparece como violencia estructural y el machismo como violencia cultural (pp. 16-17). La crítica feminista señala la violencia privada ignorada, la mujer sin agencia y el uso selectivo de la Res. 1325 (pp. 40-41).",
+    "reconciliacion": "No se tematiza. Lo más cercano es la cita de Mitchell sobre los recuerdos compartidos de las heridas como último obstáculo (p. 34) y la paz polarizada del triángulo de la paz.",
+    "tiempo": "La paz positiva es un proceso y la transformación es no lineal (p. 38). Los estudios de conflictos se critican por su marco temporal limitado (p. 44), y Galtung trata la violencia directa como evento y la estructural como proceso (p. 18)."
+  },
+  "palabrasClave": ["conflicto", "triángulo ABC", "violencia estructural", "violencia cultural", "conflicto armado", "paz imperfecta", "paz cotidiana", "paz híbrida", "provención", "transformación pacífica de conflictos"]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "castillo2018",
+  "modulos": ["M3"],
+  "tipo": "obligatoria",
+  "autor": "Castillo, Elizabeth",
+  "autorCorto": "Castillo",
+  "anio": 2018,
+  "titulo": "El cuerpo, primer territorio de paz",
+  "obra": "No somos etcétera: Veinte años de historia del movimiento LGBT en Colombia, cap. 2",
+  "editorial": "Ediciones B",
+  "paginas": "53-79",
+  "notaPaginas": "Corresponde al capítulo 2 completo. En las pp. 62 y 79 el número no se ve en el escaneo, pero la secuencia lo confirma.",
+  "formato": "escaneado",
+  "metodoLectura": "Lectura visual página por página de las 27 imágenes del escaneo, todas legibles.",
+  "resumen": "Castillo narra en primera persona la historia del movimiento LGBT en Colombia y sostiene que Planeta Paz, nacido en los diálogos del Caguán, lo convirtió en un movimiento nacional. Allí se formuló la idea del cuerpo como primer territorio de paz.",
+  "tesis": "Planeta Paz (desde 2000), un proyecto de participación de la sociedad civil surgido en los diálogos Pastrana-FARC, reunió procesos LGBT dispersos (militancia homosexual de izquierda, respuesta al VIH, feminismo lésbico) y los volvió un movimiento con nombre, agenda e identidad colectiva (pp. 62-65). En ese espacio se formuló la idea del cuerpo como primer territorio de paz, que conectó la sexualidad con la guerra y con las agendas de otros sectores (p. 66). Por eso, aunque el proceso de paz fracasó, la autora llama a Planeta Paz \"laboratorio de paz\" (pp. 65, 79). De él salieron las Mesas LGBT y las primeras políticas públicas locales (pp. 72-79). Una tesis secundaria es que sin las mujeres LBT no se habría sostenido el colectivo (p. 70).",
+  "estructura": [
+    {"seccion": "Breve recuento de la historia (posguerra, feminismo, Stonewall, Día del Orgullo)", "paginas": "53-56"},
+    {"seccion": "En Colombia (Zuleta y Velandia, despenalización, VIH/sida, primeras organizaciones, Constitución de 1991)", "paginas": "56-62"},
+    {"seccion": "La otra parte de la historia, después del 2000 (Planeta Paz, la sigla, el cuerpo como territorio, mujeres LBT)", "paginas": "63-70"},
+    {"seccion": "Planeta Paz (conflicto armado, Mesas LGBT, alcaldía de Garzón, campaña de 2006, otras regiones)", "paginas": "70-79"}
+  ],
+  "conceptos": [
+    {"termino": "El cuerpo, primer territorio de paz", "definicion": "Concepto construido en Planeta Paz a partir de la noción de territorio de los sectores indígena y afro. Permitió mostrar que el conflicto ejercía violencias específicas contra personas LGBT y que esas violencias variaban según la identidad.", "pagina": "66-67"},
+    {"termino": "Masculinidad dominante", "definicion": "La masculinidad que se expresa en el uso de la fuerza y las armas produce exclusión y persecución contra los homosexuales y contra quien sea tenido por tal.", "pagina": "66"},
+    {"termino": "Heterocentrismo", "definicion": "Suponer que todas las personas son heterosexuales. Las lesbianas feministas lo cuestionaron junto con la heterosexualidad obligatoria y la rigidez de los roles de género.", "pagina": "62 (nota 22)"},
+    {"termino": "Endodiscriminación", "definicion": "Discriminación entre las propias personas LGBT. Se origina en que también fueron criadas en un mundo heterocentrista, a través del hogar, la escuela, los medios y las iglesias.", "pagina": "67"},
+    {"termino": "Disputa por la sigla LGBT", "definicion": "El orden de las letras se negoció con conflicto. Se acordó empezar por la L para hacer visibles a las lesbianas, porque la visibilidad gay ya se había consolidado con la lucha contra el sida.", "pagina": "64-66"},
+    {"termino": "Transgeneristas", "definicion": "Término acordado para agrupar a travestis, transformistas y transexuales, con apoyo de Trans-Ser.", "pagina": "67"},
+    {"termino": "VIH/sida como catalizador", "definicion": "El sida impulsó la organización de los homosexuales. El estigma produjo un doble rechazo y las organizaciones surgieron ante una respuesta estatal inexistente.", "pagina": "57-58"},
+    {"termino": "Las \"dos Colombias\"", "definicion": "El trabajo se concentró en las capitales y eso hizo más visibles a los activistas urbanos, aunque hubo iniciativas importantes en otras regiones.", "pagina": "71"},
+    {"termino": "Crimen de odio", "definicion": "Categoría que la autora usa para el asesinato impune de León Zuleta en 1993. El capítulo no usa la categoría \"violencia por prejuicio\".", "pagina": "57"}
+  ],
+  "evidente": [
+    "El capítulo reconstruye la historia del movimiento LGBT desde Stonewall y su llegada a Colombia: despenalización en 1980, respuesta al VIH, Constitución de 1991 y tutela contra el Estatuto Docente en 1998 (pp. 53-61).",
+    "Planeta Paz, financiado por Noruega y ejecutado por ILSA y la Universidad Nacional, incluyó a un sector \"completamente nuevo: LGBT\", que enfrentó burlas y aislamiento de otros sectores y respondió con acciones simbólicas (pp. 63-65).",
+    "Todos los actores armados reprimieron a personas LGBT, y el Estado solo empezó a reconocerlo en 2014 con reportes oficiales y un primer encuentro de víctimas (pp. 70-71).",
+    "La Mesa LGBT de Bogotá negoció con la alcaldía de Garzón y logró cinco acuerdos en 2006, pese a la reacción de grupos fundamentalistas cristianos (pp. 72-78)."
+  ],
+  "noEvidente": [
+    {"titulo": "Testimonio más que análisis", "texto": "La autora narra desde adentro y remite el análisis a la academia (p. 62). Afirmaciones como que en Planeta Paz \"nunca hubo violencia física\" (p. 64) o que fue el único laboratorio que funcionó (p. 65) se apoyan solo en su experiencia.", "inferencia": false},
+    {"titulo": "Norma frente a vida cotidiana", "texto": "El cierre celebra el marco normativo (p. 79), pero el mismo texto registra asesinatos impunes, violencia policial contra personas trans y violencia de los actores armados (pp. 57, 71, 73). Entre la norma y la seguridad cotidiana de los cuerpos queda una brecha que el capítulo no resuelve.", "inferencia": true},
+    {"titulo": "Centralismo que se denuncia y se repite", "texto": "La autora reconoce las \"dos Colombias\" (p. 71), pero dedica casi siete páginas a Bogotá (pp. 72-78) y un párrafo al resto (p. 79). Lo rural casi no aparece, aunque allí ocurre la mayor parte del conflicto.", "inferencia": true},
+    {"titulo": "La T y la B en lugar secundario", "texto": "La categoría \"transgeneristas\" se definió en una negociación narrada desde la voz lésbica. La imagen de la mujer trans \"sola, abrazándose a sí misma\" en la campaña (p. 76) resume esa representación aislada. La I no aparece en el capítulo.", "inferencia": true},
+    {"titulo": "Institucionalización y autonomía", "texto": "Los activistas que pasan a ser funcionarios enfrentan un dilema que la autora nombra (p. 75). La campaña de 2006 se diseñó con grupos focales sin consultar a la Mesa (p. 75), un dato que muestra cómo el Estado puede apropiarse de la representación del movimiento.", "inferencia": true},
+    {"titulo": "Lo que falta", "texto": "El capítulo no trata el Acuerdo de 2016, el plebiscito ni la \"ideología de género\", y su relato termina hacia 2007. La marcha fundamentalista de 2006 puede leerse como antecedente de la movilización de 2016, pero esa lectura no está en el texto.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "solo a través de Planeta Paz se consiguió que las iniciativas se hicieran conocidas para un grupo amplio de personas", "pagina": "63"},
+    {"texto": "Planeta fue todo un laboratorio de paz, quizás el único que verdaderamente funcionó en dicho fallido proceso de paz", "pagina": "65"},
+    {"texto": "la masculinidad dominante, que se hace evidente en el uso de la fuerza y las armas", "pagina": "66"},
+    {"texto": "Los homosexuales también somos producto de nuestra cultura", "pagina": "67"}
+  ],
+  "cruces": [
+    {"con": "rojas2012", "texto": "Planeta Paz tuvo sectores separados de mujeres y LGBT (p. 63), lo que muestra cómo la participación en la paz separaba género y diversidad sexual. Castillo funciona como contrapunto al enfoque de género centrado en mujeres de Rojas.", "inferencia": true},
+    {"con": "gallego2023", "texto": "Castillo apunta la relación entre masculinidad dominante armada y persecución de lo homosexual (pp. 66, 71). Gallego la desarrolla como forma de regular la masculinidad hegemónica, incluida la violencia sexual contra hombres.", "inferencia": true},
+    {"con": "mouly2022", "texto": "El heterocentrismo, la idea del sida como castigo divino y la penalización hasta 1980 se pueden leer como violencia cultural y estructural. El cuerpo como territorio de paz se acerca a una paz cotidiana.", "inferencia": true},
+    {"con": "lederach1998", "texto": "Planeta Paz opera en el nivel medio: conecta sectores populares con la negociación de alto nivel. Su éxito relacional contrasta con el fracaso del nivel alto.", "inferencia": true},
+    {"con": "garciaduran2023", "texto": "El legado de Planeta Paz fueron capacidades organizativas locales que sobrevivieron al colapso de la paz desde arriba y dependieron de la voluntad política local (p. 79).", "inferencia": true},
+    {"con": "arendt1993", "texto": "Los plantones, besatones y la campaña pueden leerse como la creación de un espacio de aparición en el que un grupo excluido se vuelve actor político.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Qué significa \"el cuerpo, primer territorio de paz\" y por qué fue estratégico dentro de Planeta Paz?", "orientacion": "Traslada al cuerpo la idea de territorio de los sectores indígena y afro (p. 66). Acercó agendas con mujeres y jóvenes, mostró la violencia específica contra personas LGBT y diferenció las experiencias de cada letra (pp. 66-67). En el texto funciona más como herramienta política que como categoría teorizada."},
+    {"pregunta": "¿Por qué la autora llama a Planeta Paz \"laboratorio de paz\" si el Caguán fracasó?", "orientacion": "El éxito se mide en relaciones y capacidades: sectores que se rechazaban terminaron aceptándose como iguales (p. 65) y luego llegaron las Mesas y la política pública (pp. 72-79). Se puede evaluar con Lederach y con la paz desde abajo. Hay que notar que es una evaluación testimonial y centrada en Bogotá."},
+    {"pregunta": "¿Cómo se relacionan masculinidad, conflicto armado y violencia contra personas LGBT según el capítulo?", "orientacion": "La masculinidad dominante armada excluye y persigue lo que percibe como homosexual (p. 66). Todos los actores armados ejercieron esa violencia, con formas distintas según la identidad (p. 71). Castillo describe sin analizar en detalle, y Gallego (2023) ofrece el marco teórico."},
+    {"pregunta": "¿Qué tensiones revela la institucionalización del movimiento en la alcaldía de Garzón?", "orientacion": "Ritmos burocráticos frente a urgencias (p. 74), activistas convertidos en funcionarios (p. 75), una campaña sin consulta a la Mesa y con símbolos binarios (pp. 75-76) y la reacción fundamentalista (pp. 76-77). También hubo logros concretos: los cinco acuerdos de 2006 (p. 78)."},
+    {"pregunta": "¿Hasta qué punto el relato de Castillo es representativo del movimiento LGBT colombiano?", "orientacion": "Es el testimonio de una mujer lesbiana, urbana y con trayectoria institucional. Reconoce las \"dos Colombias\" (p. 71), pero las regiones aparecen como lista de nombres y lo rural casi no figura. Conviene complementarlo con las investigaciones que la autora recomienda (p. 62)."}
+  ],
+  "ejes": {
+    "paz": "La paz empieza en la seguridad del propio cuerpo, y Planeta Paz fue un \"laboratorio de paz\" pese al fracaso del Caguán (pp. 65-66, 79).",
+    "actores": "Organizaciones LGBT (GAEDS, Triángulo Negro, Proyecto Agenda, Trans-Ser), Planeta Paz, la Mesa LGBT de Bogotá, la alcaldía de Garzón y los actores armados (pp. 58-79).",
+    "poder": "El texto muestra el control de los cuerpos por la policía y los actores armados, y el paso del movimiento a negociar con el poder local (pp. 55, 71-78).",
+    "genero": "Amplía el género hacia la diversidad sexual y critica la masculinidad dominante armada, aunque la campaña de 2006 reprodujo el binario (pp. 66, 75).",
+    "reconciliacion": "Se da entre sectores subalternos: pasar de la burla y el aislamiento a ser aceptados como iguales dentro de Planeta Paz (pp. 64-65).",
+    "tiempo": "Va de Stonewall (1969) a 2007, con una mención a 2014. No llega al Acuerdo de 2016 (pp. 54-79)."
+  },
+  "palabrasClave": ["movimiento LGBT", "Planeta Paz", "cuerpo como territorio de paz", "masculinidad dominante", "heterocentrismo", "endodiscriminación", "mujeres LBT", "política pública LGBT", "Caguán"]
+}

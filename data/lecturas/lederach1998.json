@@ -1,0 +1,94 @@
+{
+  "id": "lederach1998",
+  "modulos": ["M1-2", "M5-7"],
+  "tipo": "obligatoria",
+  "autor": "Lederach, J. P.",
+  "autorCorto": "Lederach",
+  "anio": 1998,
+  "titulo": "Reconciliación: la construcción de relaciones (cap. III); Estructura: lentes para una visión amplia (cap. IV); Un marco integrado para la construcción de la paz (cap. VI)",
+  "obra": "Construyendo la paz. Reconciliación sostenible en sociedades divididas",
+  "editorial": "Bakeaz / Gernika Gogoratuz",
+  "paginas": "51-90; 101-114",
+  "notaPaginas": "El syllabus del Módulo 2 dice \"Cap. IV pp. 55-85\", pero el cap. IV va de la p. 65 a la 90. Las pp. 55-63 son del cap. III (la p. 64 está en blanco) y con el rango 55-85 se pierden el final del paradigma de Dugan, Mogadiscio y las conclusiones del cap. IV (pp. 89-90), que sostienen la tesis del nivel medio. El Módulo 5-7 asigna pp. 51-63 y 65-90, que es correcto. Conviene leer también una vez las pp. 91-99 (cap. V, no asignado), porque el cap. VI cruza estructura y proceso.",
+  "formato": "digital",
+  "metodoLectura": "Texto extraído del PDF digital; las páginas del PDF coinciden con las de la edición impresa.",
+  "resumen": "Lederach propone pasar de resolver materias en disputa a reconstruir relaciones. Para eso arma un marco con la reconciliación como fondo, dos juegos de lentes estructurales (pirámide de actores y paradigma anidado de Dugan) y una integración temporal que desemboca en una infraestructura para la paz entendida como estructura-proceso.",
+  "tesis": "En los conflictos internos actuales los enemigos son vecinos, cargan traumas y agravios de varias generaciones, y las soluciones \"mecánicas y racionales\" de la diplomacia de Estado no sirven; por eso la paz debe centrarse en restaurar relaciones (p. 52). La reconciliación es a la vez orientación (focus) y espacio de encuentro (locus) donde se reúnen pasado y futuro, verdad y misericordia, justicia y paz (pp. 55-59). El cap. IV mira a toda la población afectada con dos lentes, los niveles de liderazgo y los niveles de los problemas, y concluye que el nivel medio tiene el mayor potencial para crear una infraestructura de paz (pp. 89-90). El cap. VI critica el \"tiempo de la crisis\" de la respuesta internacional y pide encajar la crisis en una visión de largo plazo, hasta llegar a una infraestructura para la paz como estructura-proceso cuyo propósito es la reconciliación (pp. 101-114).",
+  "estructura": [
+    {"seccion": "Cap. III · Introducción: dimensiones humanas del conflicto y cambio de paradigma", "paginas": "51-52"},
+    {"seccion": "Cap. III · Marco conceptual para la reconciliación: realismo e innovación, tres supuestos, Salmo 85 y lugar de encuentro (fig. 1), paradojas", "paginas": "52-60"},
+    {"seccion": "Cap. III · La práctica de la reconciliación: Bosnia, talleres, canal de Oslo", "paginas": "60-63"},
+    {"seccion": "Cap. III · Conclusiones", "paginas": "63"},
+    {"seccion": "Cap. IV · Reconsiderando la población afectada: metáfora somalí y pirámide (fig. 2)", "paginas": "65-67"},
+    {"seccion": "Cap. IV · Tipos de actores: niveles 1, 2 y 3", "paginas": "67-71"},
+    {"seccion": "Cap. IV · Enfoques de la construcción de la paz: observaciones sobre la pirámide", "paginas": "71-72"},
+    {"seccion": "Cap. IV · Nivel 1: de arriba abajo", "paginas": "72-74"},
+    {"seccion": "Cap. IV · Nivel 2: del medio hacia afuera (talleres, formación, comisiones de paz)", "paginas": "74-80"},
+    {"seccion": "Cap. IV · Nivel 3: de abajo arriba (Somalia, Mozambique, Liberia)", "paginas": "80-84"},
+    {"seccion": "Cap. IV · De las cuestiones a los sistemas: paradigma anidado de Dugan (fig. 3), Mogadiscio, control de armas", "paginas": "84-89"},
+    {"seccion": "Cap. IV · Conclusiones", "paginas": "89-90"},
+    {"seccion": "Cap. VI · Introducción: confrontación y negociación, \"efecto CNN\" y tres pautas típicas", "paginas": "101-102"},
+    {"seccion": "Cap. VI · Replanteamiento de los marcos temporales (fig. 6)", "paginas": "102-108"},
+    {"seccion": "Cap. VI · Un marco integrado: cinco comunidades (fig. 7), integración desde el nivel medio, cuatro dimensiones de la transformación", "paginas": "108-113"},
+    {"seccion": "Cap. VI · Conclusiones: infraestructura para la paz como estructura-proceso", "paginas": "113-114"}
+  ],
+  "conceptos": [
+    {"termino": "Cambio de paradigma", "definicion": "Pasar de un interés centrado en las materias en disputa a uno centrado en las relaciones. El componente relacional de la reconciliación es, para Lederach, el principal componente de la construcción de la paz.", "pagina": "52"},
+    {"termino": "Conocer frente a reconocer", "definicion": "Conocer lo ocurrido no basta: el reconocimiento es un fenómeno social que valida la experiencia de las víctimas. Es el primer paso para recuperar a la persona y la relación, y debe ir unido a la imaginación de un futuro interdependiente.", "pagina": "55"},
+    {"termino": "Reconciliación como lugar de encuentro (Salmo 85)", "definicion": "A partir del Salmo 85:10, leído en Nicaragua, Lederach personifica cuatro energías: verdad (admisión, transparencia), misericordia (aceptación, perdón), justicia (rectificar, restitución) y paz (armonía, seguridad). Cada una sola falla; el lugar donde se encuentran es la reconciliación (fig. 1).", "pagina": "56-58"},
+    {"termino": "Tres paradojas", "definicion": "Siguiendo a Smith y Berg, la reconciliación sostiene tres pares de polos interdependientes: pasado doloroso y futuro interdependiente, verdad y misericordia, justicia y paz. El atolladero aparece cuando un grupo se aferra a un polo a costa del otro.", "pagina": "58-60"},
+    {"termino": "Focus y locus", "definicion": "Como perspectiva (focus), la reconciliación se orienta a lo relacional. Como fenómeno social (locus), es un espacio donde las partes comparten percepciones, sentimientos y experiencias para crear una nueva experiencia compartida.", "pagina": "59"},
+    {"termino": "Pirámide de actores", "definicion": "La población afectada se ordena en tres niveles: liderazgo alto (visible, encerrado en posiciones), liderazgo medio (respetado en sectores, con relaciones a través de las divisiones y libertad de movimiento) y liderazgo de base (en mentalidad de supervivencia). Las fracturas de identidad son verticales y hay dos relaciones inversas: arriba hay más poder de decisión y menos exposición a las consecuencias; abajo, lo contrario.", "pagina": "65-72"},
+    {"termino": "Enfoques por nivel", "definicion": "De arriba abajo: mediadores eminentes y alto el fuego, con supuestos de poder monolítico y jerárquico. Del medio hacia afuera: talleres de resolución de problemas, formación y comisiones de paz, que pueden crear una infraestructura interna. De abajo arriba: conferencias locales y programas a través de redes existentes, con énfasis en trauma y juventud.", "pagina": "72-84"},
+    {"termino": "Paradigma anidado de Dugan", "definicion": "Cuatro niveles concéntricos de los problemas: cuestión, relación, subsistema y sistema (fig. 3). El subsistema es un espacio de actividad de nivel medio que conecta los demás y permite tratar a la vez la estructura, las relaciones y la cuestión, en paralelo con el nivel 2 de la pirámide.", "pagina": "84-89"},
+    {"termino": "Cuatro marcos temporales", "definicion": "Intervención en la crisis (2 a 6 meses), preparación y formación (1 a 2 años), diseño del cambio social (5 a 10 años) y visión generacional (más de 20 años) (fig. 6). La crisis debe definirse desde el futuro deseado y no al revés.", "pagina": "104-108"},
+    {"termino": "Marco integrado: cinco comunidades", "definicion": "La fig. 7 cruza los niveles de Dugan con el tiempo y ubica cinco comunidades de pensamiento y acción, a menudo inconexas: causas originarias, gestión de la crisis, prevención, visión y transformación. La transformación ocupa el centro (subsistema y relación, escala de décadas) y necesita a las otras cuatro.", "pagina": "108-111"},
+    {"termino": "Cuatro dimensiones de la transformación", "definicion": "La transformación es descriptiva (efectos del conflicto) y prescriptiva (intervención deliberada) y opera en cuatro dimensiones: personal, relacional, estructural (con justicia sustantiva y de procedimiento) y cultural. El proceso global busca cambiar la naturaleza de las relaciones en todos los niveles.", "pagina": "111-113"},
+    {"termino": "Infraestructura para la paz como estructura-proceso", "definicion": "Red de personas, relaciones, actividades y mecanismos sociales en todos los niveles que mantiene su forma sin rigidez, como una corriente de agua. No tiene un estado final estático: son procesos autorregeneradores que arraigan en la cultura y el contexto y cuyo propósito es la reconciliación.", "pagina": "113-114"}
+  ],
+  "evidente": [
+    "Lederach dice que en los conflictos internos la diplomacia de Estado resulta ineficaz y que la paz debe centrarse en restaurar relaciones, con lo espiritual y lo sociopsicológico como elementos centrales (pp. 52, 58).",
+    "El texto afirma que el enfoque de arriba abajo supone líderes identificables, representativos y capaces de hacer cumplir lo pactado, y que el nivel medio tiene el mayor potencial para sostener la paz (pp. 73, 89-90).",
+    "Del canal de Oslo (Israel-OLP, 1993) extrae una lección explícita: la confidencialidad que protege el inicio genera después desconfianza en los excluidos, y sin integrar los niveles medio y de base lo logrado arriba puede colapsar (pp. 60-63).",
+    "El cap. VI pide medir las acciones inmediatas por sus consecuencias a largo plazo y no confundir el alto el fuego con la construcción de la paz (p. 104)."
+  ],
+  "noEvidente": [
+    {"titulo": "Trasfondo menonita", "texto": "El MCC, el Salmo 85 y la Iglesia Morava son explícitos (pp. 56, 78), y casi todos los actores medios y de base que elige son eclesiales. El pacifismo anabaptista ayuda a explicar la prioridad de la misericordia y una justicia más restaurativa que penal (Zehr aparece citado en la p. 52).", "inferencia": true},
+    {"titulo": "Ciencia como metáfora legitimadora", "texto": "La relación como unidad de análisis se apoya en la física cuántica y en Wheatley (pp. 54, 113). Es un recurso retórico discutible: usa metáforas de las ciencias naturales para sostener un argumento normativo.", "inferencia": true},
+    {"titulo": "Caricatura de género", "texto": "La imagen del \"hermano mayor\" (Relaciones Internacionales) y la \"hermana pequeña\" (Resolución de Conflictos) reproduce la asociación de lo masculino con lo duro y político y de lo femenino con lo blando y emocional (pp. 52-53). Lederach no la problematiza.", "inferencia": true},
+    {"titulo": "Paradojas sin criterio operativo", "texto": "Verdad y misericordia, justicia y paz deben quedar \"validados y unidos\" (p. 58), pero el texto no dice cómo decidir cuando chocan en la práctica, por ejemplo entre amnistías y juicios. La fórmula es normativa, no operativa.", "inferencia": true},
+    {"titulo": "Riesgo de elitismo intermedio", "texto": "Poner el centro en el nivel 2 (p. 90) puede convertir a académicos, clérigos y líderes de ONG en traductores de la base. Queda abierta la pregunta de quién representa a los no organizados.", "inferencia": true},
+    {"titulo": "Omisiones de poder y economía", "texto": "El género no es categoría de análisis y casi no hay mujeres entre los actores nombrados. Faltan grupos armados fragmentados, saboteadores y la economía política de quienes ganan con la guerra; Mogadiscio insinúa que el arma es empleo, pero la dimensión estructural (p. 112) se trata poco.", "inferencia": true},
+    {"titulo": "Fracturas verticales y Colombia", "texto": "La pirámide supone divisiones de identidad étnica o religiosa que cortan los niveles de arriba abajo (p. 71). Ese modelo puede no ajustarse a conflictos con fuerte componente de clase y territorio, como el colombiano.", "inferencia": true},
+    {"titulo": "Tiempo largo frente a urgencia", "texto": "Lederach pide pensar en décadas y cuenta que en Belfast casi lo expulsan por decir que salir de un conflicto toma lo que tomó entrar (p. 107). Donantes, ciclos electorales y víctimas exigen resultados inmediatos, y el texto no resuelve quién financia la visión generacional.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "Una cosa es conocer, pero reconocer es un fenómeno social muy diferente.", "pagina": "55"},
+    {"texto": "La misericordia y la verdad se han encontrado, la justicia y la paz se han besado", "pagina": "56"},
+    {"texto": "El subsistema es un espacio de actividad de nivel medio que relaciona los otros niveles del sistema.", "pagina": "86-87"},
+    {"texto": "Una estructura-proceso consiste en sistemas que mantienen la forma a lo largo del tiempo pero no tienen una estructura rígida", "pagina": "113"}
+  ],
+  "cruces": [
+    {"con": "mouly2022", "texto": "Lederach trabaja con una paz positiva y relacional, entendida como proceso y no como estado (p. 114), y construida desde abajo y desde el medio, en contraste con la paz liberal de arriba abajo. Conviene ver si Mouly lo ubica en la paz transformadora o en la paz relacional.", "inferencia": true},
+    {"con": "rojas2012", "texto": "El enfoque de género cubre la ausencia de mujeres en la pirámide: las colombianas son actoras centrales del nivel 3 y cada vez más del medio y del alto. Rojas permite preguntar quién define lo que cuenta como liderazgo.", "inferencia": true},
+    {"con": "garciaduran2023", "texto": "Las iniciativas de Aguablanca son un nivel 3 urbano, con mentalidad de supervivencia (p. 70) y énfasis en jóvenes y trauma (p. 84). La lección de Mogadiscio sobre armas, estatus y empleo sirve para pandillas y fronteras invisibles.", "inferencia": true},
+    {"con": "arendt1993", "texto": "En Arendt el perdón remedia la irreversibilidad del pasado y la promesa la imprevisibilidad del futuro, un paralelo con la paradoja pasado/futuro (pp. 55, 59). Arendt excluye del perdón el mal radical; Lederach no se ocupa de los límites del perdón.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué la reconciliación exige un cambio de paradigma respecto de la diplomacia de Estado?", "orientacion": "Partir de la naturaleza de los conflictos internos: proximidad, trauma, agravios intergeneracionales y estereotipos (pp. 51-52). El cambio va de resolver materias a restaurar relaciones (p. 52) e incluye lo espiritual y lo sociopsicológico (p. 58). Mencionar la síntesis entre realismo e innovación (p. 53) y discutir la ontología relacional."},
+    {"pregunta": "Explique la reconciliación como lugar de encuentro a partir del Salmo 85. ¿Qué ocurre cuando una energía se impone sobre su par?", "orientacion": "Usar las cuatro figuras y sus límites cuando actúan solas (pp. 56-57), la fig. 1 y las tres paradojas (p. 59). Ejemplo: comisiones de la verdad frente a amnistías (p. 58). Señalar que Lederach no da criterios para resolver choques reales."},
+    {"pregunta": "Describa la pirámide de actores. ¿Qué supuestos critica del enfoque de arriba abajo y por qué privilegia el nivel medio?", "orientacion": "Los tres niveles y sus rasgos (pp. 67-71) y los enfoques de la fig. 2. Supuestos del goteo: líderes identificables, representativos y con capacidad de hacer cumplir, y niveles que \"esperan\" (p. 73). El nivel medio conecta en vertical y horizontal y tiene relaciones previas con el otro bando (pp. 69-70, 90). Incluir fracturas verticales, relaciones inversas (p. 71) y el riesgo de elitismo intermedio."},
+    {"pregunta": "¿Qué aporta el paradigma anidado de Dugan? Aplíquelo a Mogadiscio o a un caso colombiano.", "orientacion": "Cuatro niveles (fig. 3): el mediador ve la cuestión y el investigador para la paz ve el sistema; el subsistema hace de puente (pp. 85-87). Comprar armas es una respuesta de nivel cuestión que ignora que el arma es empleo y estatus (p. 87). La respuesta de subsistema fue el centro de formación con contrato, atención al trauma y alfabetización (p. 88)."},
+    {"pregunta": "Reconstruya la figura 7 y explique por qué la transformación ocupa el centro. ¿Cómo se relaciona con las cuatro dimensiones?", "orientacion": "Ejes de Dugan por tiempo (fig. 6) y las cinco comunidades con sus preguntas (pp. 108-110). La transformación está en el subsistema y la relación, a escala de décadas, y necesita a las otras cuatro; ver las tres formas de integración (pp. 110-111). Las dimensiones personal, relacional, estructural y cultural, con justicia sustantiva y de procedimiento (p. 112), apuntan a la reconciliación (p. 113)."},
+    {"pregunta": "¿Qué significa infraestructura para la paz como estructura-proceso? Evalúe su utilidad para el posacuerdo colombiano.", "orientacion": "Una estructura flexible que mantiene la forma, sin estado final, con procesos autorregeneradores, arraigada en el contexto y orientada a la reconciliación (pp. 113-114). Pensar en Consejos Territoriales de Paz, PDET y redes eclesiales o universitarias. Criticar la falta de análisis de poder, economías ilegales, saboteadores y género, y el choque con los ciclos políticos y de financiación."}
+  ],
+  "ejes": {
+    "paz": "Paz relacional y procesual: no un estado final sino una infraestructura autorregeneradora que transforma un sistema de guerra en uno de relaciones justas e interdependientes (pp. 113-114).",
+    "actores": "Pirámide de tres niveles (alto, medio, base) con enfoques propios; el nivel medio conecta en vertical y horizontal y tiene el mayor potencial para sostener la paz (pp. 65-90).",
+    "poder": "Critica que la comunidad internacional conciba el poder como jerárquico y exclusivo cuando está difuso y fraccionado (pp. 68-69, 73). Las asimetrías de poder entre víctimas y victimarios casi no se analizan.",
+    "genero": "Ausente como categoría. La caricatura de los hermanos (pp. 52-53) y la falta de mujeres entre los actores nombrados son omisiones que conviene leer con Rojas.",
+    "reconciliacion": "Es el fondo de todo el marco: focus y locus donde se encuentran verdad, misericordia, justicia y paz (pp. 56-59), y propósito último de la infraestructura para la paz (p. 114).",
+    "tiempo": "Cuatro marcos temporales, de la crisis (2 a 6 meses) a la visión generacional (más de 20 años); la crisis debe leerse desde el futuro deseado (pp. 104-108)."
+  },
+  "palabrasClave": ["reconciliación", "pirámide de actores", "nivel medio", "paradigma anidado", "Salmo 85", "paradojas", "marcos temporales", "transformación de conflictos", "infraestructura para la paz", "estructura-proceso"]
+}

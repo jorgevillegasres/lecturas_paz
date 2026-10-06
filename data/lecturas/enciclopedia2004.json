@@ -1,0 +1,77 @@
+{
+  "id": "enciclopedia2004",
+  "modulos": ["M1-2"],
+  "tipo": "complementaria",
+  "autor": "López, Mario (Dir.)",
+  "autorCorto": "Enciclopedia (López)",
+  "anio": 2004,
+  "titulo": "Selección de entradas: Paz; Paz negativa; Paz intercultural; Paz interna; Prevención de conflictos armados",
+  "obra": "Enciclopedia de Paz y Conflictos (2 tomos)",
+  "editorial": "Instituto de la Paz y los Conflictos, Granada",
+  "paginas": "885-908",
+  "notaPaginas": "No estaba en el syllabus original. Es una selección de cinco entradas de autores distintos; las cuatro primeras van de la p. 885 a la 908. La entrada Prevención de conflictos armados no muestra número de página en el escaneo (está en el tomo 2, después de Peacemaking, p. 926). Los PDF son collages de fotocopias que incluyen entradas vecinas.",
+  "formato": "escaneado",
+  "metodoLectura": "Lectura visual página por página del escaneo, que reúne fotocopias de las cinco entradas y de algunas entradas vecinas.",
+  "resumen": "Cinco entradas de la escuela de Granada que definen la paz en positivo, como gestión de conflictos que satisface necesidades, y la amplían a dimensiones negativa, intercultural, interna y preventiva. Sirven para completar lo que Mouly no define: prevención y gestión.",
+  "tesis": "Para Muñoz, la paz es una realidad primigenia de la especie y no un derivado de la violencia: es la gestión de conflictos que satisface necesidades (p. 885) y un proceso imperfecto que se construye cada día (p. 888). Jiménez Bautista defiende la paz negativa como ausencia de guerra y de violencia directa, que hoy debe incluir la violencia no organizada (pp. 907-908). Fernández Herrería propone una paz intercultural con tres dimensiones inseparables (social, interna y gaia) y sostiene que sin transformación de la conciencia no hay cambio social duradero (pp. 902-905). Romeva define la prevención como atajar los conflictos en sus inicios, identificar sus raíces y actuar a tiempo, sin fórmulas universales.",
+  "estructura": [
+    {"seccion": "Paz (Francisco A. Muñoz)", "paginas": "885-889"},
+    {"seccion": "Paz negativa (Francisco Jiménez Bautista)", "paginas": "906-908"},
+    {"seccion": "Paz intercultural (Alfonso Fernández Herrería)", "paginas": "900-903"},
+    {"seccion": "Paz interna (Alfonso Fernández Herrería)", "paginas": "903-906"},
+    {"seccion": "Prevención de conflictos armados (Raúl Romeva Rueda)", "paginas": "sin número visible (tomo 2)"}
+  ],
+  "conceptos": [
+    {"termino": "Paz (Muñoz)", "definicion": "Situaciones en que las personas gestionan sus conflictos de modo que se satisfacen al máximo sus necesidades. Es un presupuesto que se reconoce y construye a diario, no una meta final.", "pagina": "885, 888"},
+    {"termino": "Paz imperfecta", "definicion": "Paz que convive con los conflictos y con algunas formas de violencia, en escala doméstica, estatal y planetaria. Muñoz pide teorías de la paz autónomas, no dependientes de la violencia.", "pagina": "898-900"},
+    {"termino": "Paz negativa", "definicion": "Ausencia de guerra o de violencia directa, sobre todo entre Estados, heredada de la pax romana. Jiménez Bautista pide ampliarla a malos tratos y abusos de la infancia.", "pagina": "906-908"},
+    {"termino": "Paz positiva (en la entrada Paz negativa)", "definicion": "Jiménez Bautista la define como ausencia de violencia estructural o indirecta, es decir, también en negativo.", "pagina": "906-907"},
+    {"termino": "Paz intercultural", "definicion": "Reconstrucción del concepto de paz en diálogo entre tradiciones, porque cada una es parcial. Imponer una concepción propia como única sería violencia cultural.", "pagina": "900-903"},
+    {"termino": "Paz social, interna y gaia", "definicion": "Tres dimensiones de la paz que se distinguen pero no se separan. Fernández Herrería asigna la social a Occidente, la interna a Oriente y la gaia (ecológica) a los pueblos indígenas.", "pagina": "902-903"},
+    {"termino": "Paz interna", "definicion": "Dimensión intrapersonal de la paz, la del ser humano consigo mismo. Interior y exterior serían un solo proceso con dos facetas, apoyado en la psicología transpersonal.", "pagina": "903-904"},
+    {"termino": "Prevención de conflictos armados", "definicion": "Atajar los conflictos en sus inicios con un instrumental multisectorial (político, diplomático, militar, económico, jurídico y social). Tiene dos ventanas: los primeros estadios y el posconflicto.", "pagina": "sin número visible"},
+    {"termino": "Diplomacia preventiva", "definicion": "Uno de los cuatro mecanismos de la Agenda para la Paz de Boutros-Ghali (1992): medidas para evitar que surjan los conflictos. Aparece en la entrada vecina Peace-keeping.", "pagina": "924"}
+  ],
+  "evidente": [
+    "Muñoz invierte la relación habitual entre paz y violencia: la experiencia de paz es la que permite reconocer la violencia (p. 885).",
+    "Romeva afirma que la prevención no tiene espacio cuando la guerra ya estalló, y que entonces solo quedan instrumentos imperfectos con daños colaterales.",
+    "Fernández Herrería sostiene que la legislación sola significa muy poco y que la paz exterior depende de una transformación interior (p. 904)."
+  ],
+  "noEvidente": [
+    {"titulo": "Tres niveles de anticipación", "texto": "Junto con Mouly se pueden distinguir tres niveles. La provención de Burton es estructural y de largo plazo, la prevención de Romeva es operativa y multisectorial, y la diplomacia preventiva es el nivel institucional de la ONU (p. 924).", "inferencia": true},
+    {"titulo": "Prevenir dentro de la guerra", "texto": "La tesis de Romeva de que no hay prevención en plena guerra choca con el no guerra, no paz que Mouly describe para América Latina. En Colombia, prevenir y gestionar ocurren dentro del conflicto activo.", "inferencia": true},
+    {"titulo": "Una definición afirmativa de la paz", "texto": "La propia obra critica la paz positiva definida en negativo: Martínez Guzmán dice que los indicadores siguen siendo lo que no es paz (p. 918) y Muñoz pide teorías autónomas (p. 899). Hay así una tradición hispana de definición afirmativa que Mouly no recoge.", "inferencia": true},
+    {"titulo": "La paz interna invierte la causalidad", "texto": "Para Fernández Herrería el mundo expresa la conciencia, lo que invierte la secuencia galtungiana cultural, estructural, directa. El riesgo es despolitizar la desigualdad y cargar a las víctimas con su transformación interior, sin teoría del poder ni base empírica.", "inferencia": true},
+    {"titulo": "Interculturalidad esencialista", "texto": "El reparto social para Occidente, interna para Oriente y gaia para los indígenas es un orientalismo benévolo. Choca con el antiesencialismo de Moura en la misma obra, y América Latina casi no aparece.", "inferencia": true},
+    {"titulo": "Sesgos de escuela", "texto": "Las autocitas son constantes y La paz imperfecta aparece en casi todas las bibliografías. La antropología es optimista y sin datos: más del 90 % de las comunidades no habrían conocido la guerra (pp. 885, 907).", "inferencia": false},
+    {"titulo": "Riesgo de la paz imperfecta", "texto": "Lo imperfecto puede pasar de describir la realidad a justificar sus límites, y la paz estructural imperfecta puede diluir la denuncia. Falta una teoría del poder y del conflicto armado prolongado.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "es la paz la que nos hace temer, huir, definir e identificar la violencia y no al revés", "pagina": "885"},
+    {"texto": "lo ordinario es la paz y lo extraordinario es el escándalo, la violencia", "pagina": "908"},
+    {"texto": "No podemos imponer nuestras concepciones, procedimientos y prácticas de paz como las únicas. Sería una forma de violencia cultural", "pagina": "902"},
+    {"texto": "los instrumentos de prevención de conflictos no tienen espacio cuando ya ha estallado la guerra", "pagina": "sin número visible"}
+  ],
+  "cruces": [
+    {"con": "mouly2022", "texto": "La Enciclopedia completa lo que Mouly no define: prevención (Romeva) y gestión (Muñoz, p. 885). Mouly toma la tríada peace- de Galtung; aquí se ancla en la Agenda de la ONU de 1992 y en la lectura relacional de Lederach.", "inferencia": true},
+    {"con": "lederach1998", "texto": "La entrada vecina Peace-building usa la metáfora del edificio de Lederach (p. 922). La paz como camino de Muñoz converge con la transformación relacional, y los futuros deseables (p. 889) se acercan a la imaginación moral.", "inferencia": true},
+    {"con": "garciaduran2023", "texto": "La integralidad de García Durán (consigo mismo, con el sentido, interpersonal, sociopolítica y ambiental) es casi isomorfa a la tríada interna, social y gaia. La Enciclopedia sería un antecedente secular; García Durán también cita a Muñoz (p. 27).", "inferencia": true},
+    {"con": "garciaduran2018", "texto": "La Tabla 1 de García Durán tiene el mismo esqueleto. La paz interna ayuda a pensar la reconciliación consigo mismo, y la intersubjetividad de Martínez Guzmán da base a la dimensión relacional.", "inferencia": true},
+    {"con": "arendt1993", "texto": "La pax como pactum (p. 907) conecta con la promesa como facultad política. Arendt cuestionaría la paz interna, porque para ella la política ocurre entre los hombres y la retirada a la interioridad es antipolítica.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué la paz positiva de Galtung sigue siendo una definición negativa? ¿Qué alternativa propone la escuela de Granada y Castellón?", "orientacion": "Mouly (p. 23) y Jiménez Bautista (p. 907) la definen como ausencia de violencias. Martínez Guzmán propone reconstruir las competencias para hacer las paces (pp. 916-918) y Muñoz define la paz como regulación de conflictos que satisface necesidades (p. 885). Conviene sopesar la ganancia heurística frente al riesgo de idealismo."},
+    {"pregunta": "Distinga provención, prevención y diplomacia preventiva. ¿Qué límite tiene Romeva para Colombia?", "orientacion": "La provención (Burton; Mouly pp. 34-35) son cambios institucionales que satisfacen necesidades. La prevención de Romeva es un instrumental multisectorial aplicado a tiempo, y la diplomacia preventiva (Agenda 1992, p. 924) busca evitar que surjan conflictos. El límite es que, en el no guerra, no paz, se previene dentro del conflicto."},
+    {"pregunta": "Evalúe críticamente la tríada social, interna y gaia de Fernández Herrería.", "orientacion": "Aporta una visión integral e inseparable (p. 903) que anticipa a García Durán. Sus problemas son el reparto civilizatorio esencialista, la causalidad de la conciencia hacia la estructura sin teoría del poder y la falta de base empírica (pp. 901-905)."},
+    {"pregunta": "¿Qué es la paz imperfecta y qué riesgos tiene para analizar iniciativas locales en contextos violentos?", "orientacion": "Son regulaciones pacíficas que conviven con la violencia en varias escalas, entendidas como proceso (pp. 888, 898-899). Hace visibles las paces existentes (Mouly pp. 23-24). Sus riesgos son el optimismo sin datos, normalizar la violencia residual y romantizar lo local (Mouly p. 41)."}
+  ],
+  "ejes": {
+    "paz": "La paz se define en positivo como gestión de conflictos que satisface necesidades, imperfecta y procesual (Muñoz, pp. 885-888), con dimensiones negativa, intercultural, interna y preventiva.",
+    "actores": "La paz intercultural pide una sociedad civil planetaria (p. 902); la prevención combina actores políticos, diplomáticos, militares, económicos, jurídicos y sociales (Romeva).",
+    "poder": "Jiménez Bautista denuncia el universalismo occidental como paz jerárquica y dominante (p. 907). Las entradas centrales carecen de una teoría del poder; la entrada vecina de Moura propone pasar del poder sobre al poder con.",
+    "genero": "Jiménez Bautista incluye en la paz negativa la ausencia de malos tratos y violaciones a esposas (p. 908). La entrada vecina Paz feminista (Moura) incorpora la violencia doméstica y rechaza el esencialismo de la mujer pacífica.",
+    "reconciliacion": "Aparece en la entrada vecina Peace-building, que cita la reconciliación sostenida y sostenible de Lederach (p. 922).",
+    "tiempo": "La paz es un proceso cotidiano, no una meta final (p. 888). La prevención tiene dos ventanas temporales, los primeros estadios y el posconflicto, y no actúa una vez estallada la guerra."
+  },
+  "palabrasClave": ["paz imperfecta", "paz negativa", "paz positiva", "paz intercultural", "paz interna", "paz gaia", "prevención de conflictos", "diplomacia preventiva", "escuela de Granada", "regulación pacífica de conflictos"]
+}

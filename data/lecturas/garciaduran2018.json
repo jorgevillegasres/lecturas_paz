@@ -1,0 +1,81 @@
+{
+  "id": "garciaduran2018",
+  "modulos": ["M5-7"],
+  "tipo": "obligatoria",
+  "autor": "García Durán, Mauricio, S.J.",
+  "autorCorto": "García Durán",
+  "anio": 2018,
+  "titulo": "La reconciliación: reto ético y político en el contexto colombiano",
+  "obra": "Revista Controversia, 211",
+  "editorial": "Revista Controversia",
+  "paginas": "17-58",
+  "notaPaginas": "El texto va de la p. 17 a la 55 y las referencias ocupan las pp. 56-58.",
+  "formato": "digital",
+  "metodoLectura": "Lectura del texto extraído del PDF, con la paginación impresa de la revista.",
+  "resumen": "Ensayo de síntesis que responde cinco preguntas sobre la reconciliación en Colombia (por qué, qué, quiénes, cómo y cuándo). Defiende una reconciliación integral, de largo plazo y centrada en las víctimas como condición de una paz duradera.",
+  "tesis": "Una paz sostenible y duradera en Colombia solo es posible si se promueve la reconciliación en toda su complejidad (p. 55). El autor la entiende como un proceso integral, multidimensional y de largo plazo para reconstruir relaciones y tejido social, que articula verdad, justicia, reparación y sanación. Ese proceso involucra a toda la sociedad con prioridad de las víctimas, combina vías institucionales y comunitarias y avanza de forma no lineal. El autor opta por la escuela de la reconciliación frente a la de la justicia transicional y la de dealing with the past (p. 28), y rechaza equiparar reconciliación con impunidad u olvido (pp. 18, 31, 44). Como tesis secundaria sostiene que no hay empatía entre víctima y victimario sin alguna forma de perdón (p. 54).",
+  "estructura": [
+    {"seccion": "Resumen e introducción: comprensiones opuestas de la reconciliación y cinco preguntas", "paginas": "17-20"},
+    {"seccion": "I. ¿Por qué la sociedad colombiana se debe comprometer con la reconciliación? (seis razones)", "paginas": "20-27"},
+    {"seccion": "II. ¿Qué concepción de reconciliación requiere un contexto como el colombiano? (tres escuelas, Tabla 1, seis aproximaciones)", "paginas": "27-40"},
+    {"seccion": "III. ¿Quiénes están involucrados en la reconciliación? (seis actores)", "paginas": "40-43"},
+    {"seccion": "IV. ¿Cómo gestar la reconciliación? (doble vía, modelos, justicia transicional, cualidades del agente, dimensión religiosa)", "paginas": "43-52"},
+    {"seccion": "V. ¿Cuándo es necesaria la reconciliación? (temporalidad, largo plazo, estadios, no linealidad)", "paginas": "52-55"},
+    {"seccion": "Conclusión", "paginas": "55"},
+    {"seccion": "Referencias", "paginas": "56-58"}
+  ],
+  "conceptos": [
+    {"termino": "Tres escuelas sobre el pasado violento", "definicion": "Según Salter (2016) hay tres escuelas superpuestas: la justicia transicional (verdad, justicia, reparación y no repetición), el dealing with the past (que evita el término reconciliación) y la reconciliación (reconstrucción de relaciones). El autor elige la tercera.", "pagina": "28"},
+    {"termino": "Dimensiones de la reconciliación (Tabla 1)", "definicion": "Reconciliación consigo mismo, con Dios o el sentido, intersubjetiva, sociopolítica y con la creación. La tabla viene de las Congregaciones Generales 35 y 36 de la Compañía de Jesús. En Colombia el foco es sociopolítico, sin dejar las otras dimensiones.", "pagina": "29-30"},
+    {"termino": "Seis aproximaciones a la reconciliación", "definicion": "Bloomfield: concepto paraguas y realista de relaciones mínimas de convivencia (pp. 30-33). Lederach: la reconciliación como lugar de encuentro (pp. 33-34). Conciliation Resources: un proceso por fases (pp. 35-36). Orozco: los enemigos militares pasan a ser competidores políticos, con zonas grises (pp. 36-37). Yoder: ruptura de los ciclos de la víctima y del agresor (pp. 38-39). Schreiter: sanación que realinea asimetrías y devuelve agencia a la víctima (pp. 39-40). El autor las presenta como complementarias.", "pagina": "30-40"},
+    {"termino": "Reconciliación como proceso", "definicion": "Siguiendo a Bloomfield, es la reconstrucción gradual de relaciones para negociar una realidad política compartida. Es un proceso incómodo y difícil, no un estado paradisíaco, y su meta nunca se cierra del todo.", "pagina": "25, 31, 39"},
+    {"termino": "Ciclos de la víctima y del agresor", "definicion": "Con Yoder y Villa, el autor describe cómo la víctima puede llegar a fantasías de venganza y el agresor a la deshumanización y la violencia salvadora. Romper ambos ciclos permite que la víctima pase a ser ciudadano empoderado.", "pagina": "25-26, 38"},
+    {"termino": "Seis actores de la reconciliación", "definicion": "En orden de prioridad: víctimas, entorno cercano, sociedad en general (testigos mudos), Estado, victimarios y comunidad internacional. A los victimarios les corresponde reconocer la verdad, someterse a la justicia, reparar y no repetir.", "pagina": "40-43"},
+    {"termino": "Doble vía top-down / bottom-up", "definicion": "La vía de arriba hacia abajo es política (confianza cívica, reciprocidad democrática, políticas públicas). La de abajo hacia arriba es cultural, interpersonal y local. En Colombia el acuerdo no basta sin convivencia territorial.", "pagina": "43-44"},
+    {"termino": "Modelos de justicia transicional (Fig. 6)", "definicion": "Se ordenan en dos ejes: verdad (del olvido institucional al esclarecimiento histórico) y justicia (de la clemencia a la justicia restaurativa o retributiva). El Acuerdo con las FARC combina justicia restaurativa, comisión de la verdad y búsqueda de desaparecidos.", "pagina": "45-48"},
+    {"termino": "Perdón", "definicion": "El perdón es discrecional y existe un derecho a no perdonar (p. 31). El autor rechaza el perdonar y olvidar y adopta el recordar y cambiar de Lederach (pp. 42, 44). Contra el manual de IDEA, sostiene que sin perdón no hay empatía (p. 54).", "pagina": "31, 42, 44, 54"},
+    {"termino": "Estadios y no linealidad", "definicion": "Huyse propone estadios: detener la violencia, coexistencia no violenta, confianza y empatía (pp. 53-54). Con Lederach y Lederach, el autor pasa de la secuencia a la simultaneidad, porque en Colombia se construye paz en medio del conflicto (pp. 54-55).", "pagina": "53-55"}
+  ],
+  "evidente": [
+    "El artículo se ordena en cinco preguntas (por qué, qué, quiénes, cómo y cuándo) y responde cada una con listas de razones, aproximaciones, actores, elementos y estadios (pp. 17-55).",
+    "El autor justifica la reconciliación con datos de la guerra contra la sociedad: el 82 % de 262.197 víctimas fatales eran civiles y hay 7.677.609 desplazados (pp. 21, 23).",
+    "La reconciliación debe priorizar a las víctimas, combinar vías institucionales y comunitarias y entenderse como proceso de largo plazo que puede tomar generaciones (pp. 40-44, 53)."
+  ],
+  "noEvidente": [
+    {"titulo": "Matriz ética cristiana y jesuita", "texto": "La Tabla 1 deriva de las Congregaciones Generales jesuitas y la mayoría de las fuentes son creyentes (Lederach, Yoder, Schreiter, Pope, Angulo, de Roux). El autor reconoce la objeción de la carga religiosa (p. 28) pero no prueba que su marco sea traducible a un pacto civil laico.", "inferencia": true},
+    {"titulo": "Perdón voluntario o perdón exigido", "texto": "Defiende el derecho a no perdonar (p. 31), pero pide a las víctimas abrirse a la reconciliación sin esperar al victimario (pp. 40-41) y hace del perdón condición de la empatía (p. 54). Lo que era opcional en lo individual se vuelve casi necesario en el proceso.", "inferencia": true},
+    {"titulo": "Perdón y clemencia sin distinguir", "texto": "El perdón aparece como experiencia personal y espiritual (p. 51) y también como medidas de perdón del Estado, como la amnistía o el indulto (pp. 42, 48). Al no separar perdón de la víctima y clemencia del Estado, el texto facilita la confusión con la impunidad que él mismo denuncia (p. 18).", "inferencia": true},
+    {"titulo": "Asimetría frente a zonas grises", "texto": "Schreiter pide realinear las asimetrías a favor de la víctima (pp. 39-40) y Orozco propone reconocer zonas grises de quienes son víctimas y victimarios a la vez (p. 37). El autor expone ambas sin conciliarlas, y las zonas grises pueden diluir responsabilidades.", "inferencia": true},
+    {"titulo": "Condición de seguridad o paz en medio del conflicto", "texto": "Los estadios de Huyse ponen como condición inicial detener la violencia (p. 53), pero luego el autor afirma que las comunidades construyen paz en medio del conflicto (pp. 54-55). Resuelve la tensión con la no linealidad sin tematizarla.", "inferencia": true},
+    {"titulo": "Omisiones de género, etnia y ciudad", "texto": "Sobre género solo aparece la cifra de violencia sexual (p. 23) y no hay análisis de masculinidades pese al ciclo del agresor (p. 26). No menciona pueblos indígenas ni afrocolombianos, y la lógica territorial es rural. Tampoco trata la reincorporación de excombatientes.", "inferencia": true},
+    {"titulo": "Valoración temprana del Acuerdo", "texto": "El juicio de que el Acuerdo va más lejos que otros modelos (p. 48) es normativo y anterior a la operación plena de la JEP. El texto no nombra el SIVJRNR ni la JEP, y supone un Estado capaz de liderar justo en el cambio de gobierno de 2018.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "La reconciliación no es un estado paradisíaco de paz y amor en el que todos son uno.", "pagina": "25"},
+    {"texto": "la reconciliación no es perdonar y olvidar, sino 'recordar y cambiar'", "pagina": "42"},
+    {"texto": "Las víctimas tienen que abrirse a la reconciliación, sin esperar que los victimarios lo hagan", "pagina": "40-41"},
+    {"texto": "Una víctima solo puede sentir empatía por su victimario si la ha perdonado.", "pagina": "54"}
+  ],
+  "cruces": [
+    {"con": "lederach1998", "texto": "Lederach es el autor más citado: la reconciliación como lugar de encuentro con el Salmo 85 (p. 33), las cualidades del agente (pp. 48-49), la temporalidad verdad, justicia, misericordia y paz (pp. 52-53) y el recordar y cambiar (p. 42).", "inferencia": false},
+    {"con": "arendt1993", "texto": "Para Arendt el perdón remedia la irreversibilidad de la acción y la promesa su imprevisibilidad; García Durán tiene ambos elementos sin nombrarlos (pp. 25, 54). Arendt también sostiene que lo que no puede castigarse no puede perdonarse, lo que cuestiona hacer del perdón condición de la empatía ante crímenes atroces.", "inferencia": true},
+    {"con": "mouly2022", "texto": "La condición inicial de detener la violencia (p. 53) corresponde a la paz negativa, y el horizonte de desarrollo, instituciones y cultura de paz (pp. 32-33) a la paz positiva. El autor no explicita ese marco.", "inferencia": true},
+    {"con": "garciaduran2023", "texto": "Las iniciativas de Aguablanca encajan en la vía bottom-up (p. 43), en las comunidades de reconciliación (p. 52) y en la paz en medio del conflicto (p. 55). También exponen las omisiones de este texto: lo urbano, lo étnico y la juventud.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué el autor elige la escuela de la reconciliación y no la de la justicia transicional o la de dealing with the past? ¿Qué gana y qué arriesga?", "orientacion": "Gana un horizonte relacional y de sanación que integra verdad, justicia y reparación (p. 28) frente a una guerra contra la sociedad (p. 20). Arriesga la acusación de carga religiosa (p. 28) y la confusión con impunidad (p. 18). Conviene evaluar si el realismo de Bloomfield (p. 31) reduce ese riesgo y si el apoyo en la espiritualidad (p. 51) lo reabre."},
+    {"pregunta": "¿Es coherente defender el derecho a no perdonar y a la vez afirmar que sin perdón no hay empatía?", "orientacion": "Puede ser coherente si la empatía es el último estadio, deseable pero no exigible, y el proceso político se sostiene en la coexistencia y la confianza (pp. 31, 53-54). El riesgo es que la meta presione moralmente a las víctimas, sobre todo junto a la exigencia de que se abran a la reconciliación (p. 40)."},
+    {"pregunta": "Compare las aproximaciones de Schreiter y de Orozco. ¿Cuál sirve mejor al contexto colombiano?", "orientacion": "Schreiter protege la centralidad y la agencia de la víctima (pp. 39-40). Orozco describe zonas grises y la transformación de enemigos en competidores políticos (p. 37). Una buena respuesta muestra que operan en niveles distintos: el interpersonal y psicosocial frente al sociopolítico."},
+    {"pregunta": "¿Qué lugar ocupa el Acuerdo de 2016 en el argumento y cómo valorar hoy el juicio de que va más lejos que otros modelos?", "orientacion": "El Acuerdo ilustra la combinación de modelos (p. 45) y un esquema restaurativo con verdad (p. 48). Es una valoración temprana, previa a la operación de la JEP. Conviene vincularla con las dificultades de implementación (p. 36) y con la paradoja del plebiscito (p. 22)."},
+    {"pregunta": "¿La reconciliación precede a la paz o la acompaña?", "orientacion": "El autor combina los estadios de Huyse, que piden primero detener la violencia (p. 53), con la no linealidad de los Lederach (pp. 54-55). Una respuesta sólida distingue la escala nacional de la comunitaria, donde se construye paz en medio del conflicto. El PDPMM sirve de ejemplo (p. 50)."}
+  ],
+  "ejes": {
+    "paz": "La reconciliación integral es condición de una paz sostenible y duradera (p. 55), y en Colombia se construye también en medio del conflicto (pp. 54-55).",
+    "actores": "Víctimas en primer lugar, entorno cercano, sociedad, Estado, victimarios y comunidad internacional (pp. 40-43).",
+    "poder": "El Estado es responsable por omisión y por acción de la fuerza pública, y debe liderar y financiar la reconciliación (pp. 41-42). Schreiter propone realinear las asimetrías a favor de la víctima (pp. 39-40).",
+    "genero": "Casi ausente: solo se menciona la cifra de 15.687 víctimas de violencia sexual (p. 23).",
+    "reconciliacion": "Proceso de reconstrucción de relaciones en cinco dimensiones, con foco sociopolítico, que integra verdad, justicia, reparación, sanación y, para el autor, perdón (pp. 29-31, 54).",
+    "tiempo": "La verdad mira al pasado, la justicia al presente y la misericordia y la paz al futuro (pp. 52-53). Es un proceso de generaciones y no lineal (pp. 53-55)."
+  },
+  "palabrasClave": ["reconciliación", "perdón", "víctimas", "justicia transicional", "Bloomfield", "Lederach", "Acuerdo de 2016", "sanación", "memoria", "no linealidad"]
+}

@@ -1,0 +1,245 @@
+{
+  "titulo": "Lecturas de construcción de paz y reconciliación",
+  "subtitulo": "Guía interactiva de las lecturas del curso, organizada por módulos",
+  "actualizado": "2026-10-06",
+  "modulos": [
+    {
+      "id": "M1-2",
+      "nombre": "Módulos 1 y 2",
+      "tema": "Conceptos y marcos de la construcción de paz",
+      "pregunta": "¿Qué es la paz y quién la construye?",
+      "descripcion": "Los dos primeros módulos arman el vocabulario del curso. Mouly define conflicto, violencia y paz, y ordena las corrientes teóricas. Lederach propone la pirámide de actores, el paradigma anidado y un marco integrado que cruza niveles y tiempo. La Enciclopedia de Paz y Conflictos es complementaria: aporta la prevención y una definición de la paz en positivo.",
+      "lecturas": [
+        {"id": "mouly2022", "alcance": "Cap. 2, pp. 13-52"},
+        {"id": "lederach1998", "alcance": "Cap. IV (pp. 65-90) y cap. VI (pp. 101-114)"},
+        {"id": "enciclopedia2004", "alcance": "Cinco entradas (complementaria)"}
+      ],
+      "taller": "taller2",
+      "abre": "¿Quiénes no aparecen en la pirámide?"
+    },
+    {
+      "id": "M3",
+      "nombre": "Módulo 3",
+      "tema": "Género, diversidad sexual y masculinidades",
+      "pregunta": "¿Quién queda fuera de la construcción de paz?",
+      "descripcion": "Tres textos que amplían el enfoque de género por capas. Rojas trabaja el género como herramienta relacional y la historia de las mujeres en la paz colombiana hasta 2012. Castillo cuenta cómo el movimiento LGBT entró a la paz por Planeta Paz. Gallego analiza la violencia sexual contra hombres y la masculinidad hegemónica militarizada.",
+      "lecturas": [
+        {"id": "rojas2012", "alcance": "Cap. 14, pp. 437-461"},
+        {"id": "castillo2018", "alcance": "Cap. 2, pp. 53-79"},
+        {"id": "gallego2023", "alcance": "pp. 71-104"}
+      ],
+      "taller": null,
+      "abre": "¿Cómo se hace la paz en la base y en la ciudad?"
+    },
+    {
+      "id": "M4",
+      "nombre": "Módulo 4",
+      "tema": "Iniciativas de paz desde abajo",
+      "pregunta": "¿Cómo se construye paz desde abajo, en medio de la violencia?",
+      "descripcion": "García Durán propone claves para leer iniciativas comunitarias en el oriente de Cali: paz imperfecta, asimetría con los niveles de arriba, actores bisagra, cuatro macroprocesos y una tabla de ocho estrategias.",
+      "lecturas": [
+        {"id": "garciaduran2023", "alcance": "Estudio introductorio, pp. 17-54"}
+      ],
+      "taller": "taller4",
+      "abre": "¿Qué hacer con el pasado y con quien hizo daño?"
+    },
+    {
+      "id": "M5-7",
+      "nombre": "Módulos 5 a 7",
+      "tema": "Reconciliación y perdón",
+      "pregunta": "¿Cómo convivir después del daño?",
+      "descripcion": "El cierre del curso. Lederach presenta la reconciliación como lugar de encuentro entre verdad, misericordia, justicia y paz. García Durán la organiza en cinco preguntas para Colombia. Arendt piensa el perdón y la promesa como facultades políticas, con un límite: lo imperdonable. Keyes ofrece un mapa internacional de enfoques.",
+      "lecturas": [
+        {"id": "lederach1998", "alcance": "Cap. III (pp. 51-63) y cap. IV (pp. 65-90)"},
+        {"id": "garciaduran2018", "alcance": "pp. 17-58"},
+        {"id": "arendt1993", "alcance": "§33 y §34, pp. 255-264"},
+        {"id": "keyes2019", "alcance": "pp. 4-16"}
+      ],
+      "pendientes": [
+        {"referencia": "Etxeberria, X. (2019). Propuesta de marco conceptual para la reconciliación: un enfoque intercultural. En F. Arrieta y G. Boffey (Eds.), Hacia la Reconciliación (pp. 73-100). Catarata / PUJ Cali.", "motivo": "El PDF no está en la carpeta de lecturas."}
+      ],
+      "taller": "taller6",
+      "abre": null
+    }
+  ],
+  "ejes": [
+    {"id": "paz", "nombre": "Qué es la paz", "pregunta": "¿Cómo define cada autor la paz o el horizonte que persigue?"},
+    {"id": "actores", "nombre": "Actores y niveles", "pregunta": "¿Quién construye la paz y desde qué lugar?"},
+    {"id": "poder", "nombre": "Violencia y poder", "pregunta": "¿Cómo entiende la violencia y qué lugar le da al poder?"},
+    {"id": "genero", "nombre": "Género y masculinidades", "pregunta": "¿Aparece el género? ¿Quién queda dentro y quién fuera?"},
+    {"id": "reconciliacion", "nombre": "Reconciliación y perdón", "pregunta": "¿Qué dice sobre reconciliarse y perdonar, y con qué límites?"},
+    {"id": "tiempo", "nombre": "Tiempo", "pregunta": "¿Cuánto tarda la paz y cómo se relacionan pasado, presente y futuro?"}
+  ],
+  "debates": [
+    {
+      "id": "d1",
+      "titulo": "¿Se puede pedir el perdón a las víctimas?",
+      "posiciones": [
+        {"lectura": "garciaduran2018", "postura": "Sí, como horizonte. Las víctimas \"tienen que abrirse\" a la reconciliación (pp. 40-41) y sin perdón no hay empatía (p. 54)."},
+        {"lectura": "lederach1998", "postura": "La misericordia es una de las cuatro energías del lugar de encuentro (pp. 56-58). No dice qué hacer cuando choca con la justicia."},
+        {"lectura": "garciaduran2023", "postura": "Siguiendo a Villa, el perdón es atributo solo de las víctimas (p. 44)."},
+        {"lectura": "arendt1993", "postura": "Nadie perdona en nombre de otro. El Estado conmuta o amnistía, pero eso no es perdonar (p. 258)."},
+        {"lectura": "keyes2019", "postura": "La reconciliación \"cannot be imposed, only chosen\" (p. 7), y el perdón no exime de reparar (p. 11)."}
+      ],
+      "clave": "Separar el perdón, que es un acto entre personas, de la clemencia, que es un acto del Estado. Con esa distinción, un sistema como la JEP puede dar beneficios sin exigir perdón a nadie.",
+      "inferencia": true
+    },
+    {
+      "id": "d2",
+      "titulo": "¿Hay cosas imperdonables?",
+      "posiciones": [
+        {"lectura": "arendt1993", "postura": "Sí. No se puede perdonar lo que no se puede castigar, ni castigar lo imperdonable: el mal radical (p. 260)."},
+        {"lectura": "lederach1998", "postura": "No trata los límites del perdón. Verdad y misericordia deben encontrarse, sin criterios para cuando chocan (p. 58)."},
+        {"lectura": "gallego2023", "postura": "Describe una violencia sexual que expulsa a la víctima de lo humano (pp. 102-103). Si el hecho no se nombra, no se puede castigar ni perdonar."}
+      ],
+      "clave": "En Colombia no se pueden amnistiar los crímenes de lesa humanidad ni los crímenes de guerra graves. Queda abierta la pregunta de si ese límite jurídico corresponde a lo imperdonable de Arendt.",
+      "inferencia": true
+    },
+    {
+      "id": "d3",
+      "titulo": "¿Dónde se construye la paz: arriba, en el medio o abajo?",
+      "posiciones": [
+        {"lectura": "lederach1998", "postura": "En el nivel medio, que conecta hacia arriba y hacia abajo (pp. 69-70, 90)."},
+        {"lectura": "garciaduran2023", "postura": "Desde la base, articulada de forma asimétrica con los demás niveles (p. 28)."},
+        {"lectura": "mouly2022", "postura": "Lo local no es bueno por sí mismo: puede reproducir violencia estructural y cultural (p. 41)."},
+        {"lectura": "rojas2012", "postura": "Las mujeres trabajan sobre todo en lo local (p. 447), pero sin presencia arriba sus agendas no llegan a la mesa (pp. 456-457)."},
+        {"lectura": "castillo2018", "postura": "Planeta Paz funcionó como nivel medio aunque el proceso del Caguán fracasó arriba (pp. 65, 79)."}
+      ],
+      "clave": "El nivel medio es necesario, pero puede volverse una élite intermedia que habla por la base. En Aguablanca los actores bisagra son la universidad y la Iglesia, es decir, el propio autor.",
+      "inferencia": true
+    },
+    {
+      "id": "d4",
+      "titulo": "¿La paz se define por lo que falta o por lo que hay?",
+      "posiciones": [
+        {"lectura": "mouly2022", "postura": "Incluso la paz positiva es ausencia de las tres violencias (p. 23)."},
+        {"lectura": "enciclopedia2004", "postura": "Martínez Guzmán critica que se siga definiendo \"lo que no es paz\" y propone \"hacer las paces\" (pp. 916-918). Muñoz pide teorías de la paz autónomas (p. 899)."},
+        {"lectura": "lederach1998", "postura": "La paz son relaciones reconstruidas y una infraestructura viva (pp. 52, 114)."},
+        {"lectura": "garciaduran2023", "postura": "La paz como vida digna o \"vivir sabroso\" (p. 23)."}
+      ],
+      "clave": "La definición negativa permite medir y la positiva permite orientar. El triángulo de la paz de Mouly (p. 25) combina ambas.",
+      "inferencia": true
+    },
+    {
+      "id": "d5",
+      "titulo": "¿Quién queda fuera del género en la construcción de paz?",
+      "posiciones": [
+        {"lectura": "rojas2012", "postura": "Define el género como relacional, pero escribe sobre todo de mujeres. Anuncia las masculinidades (p. 441) y menciona a los hombres víctimas (p. 444) sin desarrollarlo."},
+        {"lectura": "castillo2018", "postura": "En Planeta Paz, \"mujeres\" y \"LGBT\" eran sectores separados (p. 63). El cuerpo como territorio de paz hace entrar la diversidad sexual (p. 66)."},
+        {"lectura": "gallego2023", "postura": "\"Violencia de género\" se volvió un \"concepto blindado\" sobre las mujeres (p. 76), y el sesgo de quienes investigan hizo invisibles a los hombres víctimas (p. 72)."}
+      ],
+      "clave": "El enfoque de género se amplió por capas: primero mujer y conflicto, luego diversidad sexual, luego masculinidades. Las tres comparten la matriz de la masculinidad hegemónica. Falta resolver cómo ampliar sin que las agendas compitan.",
+      "inferencia": true
+    },
+    {
+      "id": "d6",
+      "titulo": "¿Se puede reconciliar en medio del conflicto?",
+      "posiciones": [
+        {"lectura": "garciaduran2018", "postura": "Se contradice: primero pide detener la violencia (p. 53) y después reconoce la paz construida en medio del conflicto (pp. 54-55)."},
+        {"lectura": "garciaduran2023", "postura": "En Aguablanca la paz se construye mientras persisten la violencia y la coexistencia forzada (pp. 31-32)."},
+        {"lectura": "mouly2022", "postura": "Existe la paz dentro de la guerra (p. 23)."},
+        {"lectura": "enciclopedia2004", "postura": "Romeva sostiene que la prevención no tiene espacio cuando ya estalló la guerra."}
+      ],
+      "clave": "El perdón de Arendt interrumpe un ciclo; no exige que el ciclo haya terminado. Queda la pregunta de si se puede perdonar a quien sigue haciendo daño.",
+      "inferencia": true
+    },
+    {
+      "id": "d7",
+      "titulo": "¿Es laico el marco de la reconciliación?",
+      "posiciones": [
+        {"lectura": "lederach1998", "postura": "Usa el Salmo 85 y trabaja con iglesias en Nicaragua (pp. 56-58)."},
+        {"lectura": "garciaduran2018", "postura": "Su tabla de dimensiones viene de la Compañía de Jesús e incluye la reconciliación con Dios (p. 29)."},
+        {"lectura": "arendt1993", "postura": "Toma el perdón de Jesús de Nazaret y lo seculariza: lo sostiene el respeto, no el amor ni la fe (pp. 258, 261)."},
+        {"lectura": "keyes2019", "postura": "El comitente es una red religiosa, pero el marco conceptual del informe es secular."}
+      ],
+      "clave": "Arendt ofrece la traducción laica que el discurso religioso de la reconciliación necesita para un pacto cívico plural.",
+      "inferencia": true
+    }
+  ],
+  "talleres": [
+    {
+      "id": "taller2",
+      "modulo": "M1-2",
+      "titulo": "Taller 2: Modelos y estrategias de paz que responden a un determinado conflicto",
+      "consigna": [
+        "Cada grupo, a partir de su propia experiencia, escoge una situación conflictiva y la describe: qué conflicto es, con qué características, quiénes están involucrados, dónde se da, cómo evoluciona, si implica violencia y cuáles son sus tiempos o momentos.",
+        "El equipo considera qué modelo de construcción de paz (de los presentados en clase) es el más adecuado para ese conflicto y qué estrategias son las más pertinentes para consolidar una paz sostenible.",
+        "Cada grupo presenta de manera sintética el resultado del ejercicio."
+      ],
+      "pasos": [
+        {"campo": "conflicto", "etiqueta": "Qué conflicto es y con qué características", "herramienta": "Definición de conflicto. ¿Es simétrico o asimétrico? ¿Es armado? Si lo es, de qué tipo y con qué intensidad.", "fuentes": [{"id": "mouly2022", "paginas": "14-23"}]},
+        {"campo": "actores", "etiqueta": "Quiénes están involucrados", "herramienta": "Las partes (puede haber más de dos) y su ubicación en la pirámide: nivel 1, 2 o 3.", "fuentes": [{"id": "mouly2022", "paginas": "14"}, {"id": "lederach1998", "paginas": "66-71"}]},
+        {"campo": "violencia", "etiqueta": "Dónde ocurre y qué violencias hay", "herramienta": "Las tres violencias (directa, estructural, cultural) y el triángulo ABC (actitudes, comportamientos, contradicciones).", "fuentes": [{"id": "mouly2022", "paginas": "15-18"}]},
+        {"campo": "tiempos", "etiqueta": "Tiempos o momentos del conflicto", "herramienta": "Los cuatro marcos temporales: crisis, preparación, diseño del cambio social y visión generacional.", "fuentes": [{"id": "lederach1998", "paginas": "104-107"}]},
+        {"campo": "modelo", "etiqueta": "Modelo de paz más adecuado", "herramienta": "De arriba abajo, del medio hacia afuera o de abajo arriba. Mantener, establecer o construir paz según el vértice del ABC que domine. Transformación pacífica del conflicto.", "fuentes": [{"id": "lederach1998", "paginas": "72-84"}, {"id": "mouly2022", "paginas": "36-39"}]},
+        {"campo": "estrategias", "etiqueta": "Estrategias para una paz sostenible", "herramienta": "El nivel del problema según Dugan (cuestión, relación, subsistema, sistema) y las cuatro dimensiones de la transformación. Si hay riesgo de escalada, prevención (Romeva).", "fuentes": [{"id": "lederach1998", "paginas": "84-89, 111-113"}, {"id": "enciclopedia2004", "paginas": "Prevención"}]}
+      ],
+      "pista": "Justifica el modelo por el tipo de conflicto. Si el conflicto es asimétrico, un \"gana-gana\" puede encubrir desigualdad (Mouly, p. 44). Si las fracturas son de clase o territorio y no étnicas, la pirámide de Lederach necesita ajustes."
+    },
+    {
+      "id": "taller4",
+      "modulo": "M4",
+      "titulo": "Taller 4: Estrategias y acciones para construir la paz desde abajo",
+      "consigna": [
+        "Cada grupo, a partir de su propia experiencia, escoge una iniciativa de paz \"desde abajo\" (puede relacionarse con el conflicto del Taller 2) y precisa qué tipo de iniciativa es, qué características tiene, quiénes están involucrados, dónde se desarrolla, cómo ha evolucionado en un contexto de conflicto y cuáles son sus tiempos o momentos.",
+        "El equipo considera qué estrategias y acciones de construcción de paz (cf. García Durán, 2023) ha desplegado la iniciativa.",
+        "Cada grupo presenta de manera sintética el resultado del ejercicio."
+      ],
+      "pasos": [
+        {"campo": "iniciativa", "etiqueta": "Tipo de iniciativa, lugar social y objetivo", "herramienta": "¿Busca autoprotección (paz negativa) o vida digna (paz positiva)? ¿Qué denominación le corresponde?", "fuentes": [{"id": "garciaduran2023", "paginas": "22-23"}]},
+        {"campo": "actores", "etiqueta": "Actores, nivel y puentes", "herramienta": "¿Quiénes son los líderes de base? ¿Quiénes hacen de actores bisagra o anfibios?", "fuentes": [{"id": "garciaduran2023", "paginas": "27-29"}]},
+        {"campo": "contexto", "etiqueta": "Contexto de violencia", "herramienta": "Triángulo de Galtung aplicado al territorio. Lugar, seguridad y voz.", "fuentes": [{"id": "garciaduran2023", "paginas": "30-33"}]},
+        {"campo": "macroprocesos", "etiqueta": "Macroprocesos", "herramienta": "Temporalidad, espacio, resiliencia-resistencia-reexistencia, integralidad.", "fuentes": [{"id": "garciaduran2023", "paginas": "36-42"}]}
+      ],
+      "matriz": {
+        "fuente": {"id": "garciaduran2023", "paginas": "47-48"},
+        "estrategias": [
+          "Educación y formación",
+          "Protección y contención",
+          "Sanación de heridas, reconciliación y restauración de relaciones",
+          "Cohesión social y reconstrucción de acuerdos sobre la vida colectiva",
+          "Empoderamiento y agencia para la realineación de asimetrías",
+          "Organización y coordinación de iniciativas",
+          "Protesta y resistencia civil",
+          "Agencia política, incidencia y comunicación pública"
+        ]
+      },
+      "pista": "El texto no aplica la Tabla 1 a ningún caso concreto. Hacerlo es tu aporte. Cierra señalando dónde podría haber romantización de lo local o cooptación (pp. 26, 28-29)."
+    },
+    {
+      "id": "taller6",
+      "modulo": "M5-7",
+      "titulo": "Taller 6: Características principales de la reconciliación en las distintas aproximaciones a la misma",
+      "consigna": [
+        "Se reparten en grupos tres lecturas cortas de García Durán et al. (2020), Herramientas para la Reconciliación, Folleto 0: referente teórico (pp. 18-21), Charles Villa-Vicencio (pp. 24-27) y Vern N. Redekop (pp. 28-31).",
+        "Cada grupo prepara una presentación sencilla con los principales puntos de la lectura sobre las características de la aproximación a la reconciliación.",
+        "En un debate breve, los grupos señalan los puntos que resaltarían."
+      ],
+      "aviso": "El Folleto 0 no está en la carpeta de lecturas. Mientras se consigue, la comparación puede apoyarse en las aproximaciones que reseña García Durán (2018) y en el mapa de Keyes (2019).",
+      "aproximaciones": [
+        {"nombre": "Bloomfield", "idea": "Concepto paraguas y realista: relaciones mínimas de trabajo y derecho a no perdonar.", "fuente": {"id": "garciaduran2018", "paginas": "30-33"}},
+        {"nombre": "Lederach", "idea": "Lugar de encuentro de verdad, misericordia, justicia y paz.", "fuente": {"id": "garciaduran2018", "paginas": "33-34"}},
+        {"nombre": "Conciliation Resources", "idea": "Reconciliación por fases.", "fuente": {"id": "garciaduran2018", "paginas": "35-36"}},
+        {"nombre": "Orozco", "idea": "Los antiguos enemigos militares se vuelven competidores políticos; hay zonas grises.", "fuente": {"id": "garciaduran2018", "paginas": "36-37"}},
+        {"nombre": "Yoder", "idea": "Romper los ciclos de víctima y de agresor: seguridad, reconocimiento, reconexión.", "fuente": {"id": "garciaduran2018", "paginas": "38-39"}},
+        {"nombre": "Schreiter", "idea": "Sanación que empieza en la víctima y realinea las asimetrías.", "fuente": {"id": "garciaduran2018", "paginas": "39-40"}},
+        {"nombre": "Espectro de Verdeja", "idea": "Minimalista (seguir adelante), deliberativo (reforma, justicia transicional) y maximalista (transformación, perdón, reparación moral).", "fuente": {"id": "keyes2019", "paginas": "6"}}
+      ],
+      "pista": "Ubica cada aproximación en el espectro de Verdeja y pregunta qué dice sobre el perdón. Así la comparación tiene un eje común."
+    }
+  ],
+  "errores": [
+    {"error": "Decir que Mouly define \"prevención\" y \"gestión\" de conflictos.", "correcto": "No las define. Lo más cercano es la \"provención\" de Burton (pp. 34-35). La prevención está en la Enciclopedia (Romeva).", "lectura": "mouly2022"},
+    {"error": "Referirse a Mouly como \"el autor\".", "correcto": "Es Cécile Mouly, autora.", "lectura": "mouly2022"},
+    {"error": "Leer el cap. IV de Lederach solo entre las pp. 55 y 85.", "correcto": "El capítulo va de la p. 65 a la 90. Las conclusiones sobre el nivel medio están en las pp. 89-90.", "lectura": "lederach1998"},
+    {"error": "Decir que Rojas omite a los hombres.", "correcto": "Menciona las masculinidades (p. 441) y a los hombres víctimas de violencia sexual (p. 444, nota 6), pero no desarrolla el tema para Colombia.", "lectura": "rojas2012"},
+    {"error": "Citar a Rojas con el título del syllabus.", "correcto": "El título real es \"La dimensión no tan conocida: el enfoque de género como una herramienta para analizar la construcción de paz\", pp. 437-461.", "lectura": "rojas2012"},
+    {"error": "Atribuir a Castillo el Acuerdo de 2016, el plebiscito o la categoría \"violencia por prejuicio\".", "correcto": "Su relato termina hacia 2007 y habla de \"crimen de odio\" (p. 57).", "lectura": "castillo2018"},
+    {"error": "Atribuir a Gallego una definición de \"robar el alma\" o un análisis de Sivakumaran.", "correcto": "Ninguna de las dos cosas está en las pp. 71-104. Sivakumaran solo aparece citado en la p. 87.", "lectura": "gallego2023"},
+    {"error": "Atribuir a García Durán (2018) los términos \"thin/thick\" o nombrar la JEP en su texto.", "correcto": "No los usa. La distinción delgada/gruesa está en García Durán (2023), citando a Chapman, y en Keyes, citando a Seils.", "lectura": "garciaduran2018"},
+    {"error": "Decir que Keyes defiende la \"reconciliación transformadora\".", "correcto": "Dice que no es una expresión útil porque se usa para cosas opuestas (p. 13).", "lectura": "keyes2019"},
+    {"error": "Ubicar la promesa dentro del §33 de Arendt.", "correcto": "La promesa tiene su propio apartado, el §34 (pp. 262-265).", "lectura": "arendt1993"},
+    {"error": "Decir que Arendt exige arrepentimiento para perdonar.", "correcto": "Su fundamento es \"no saben lo que hacen\". El límite está en el acto (el mal radical), no en la actitud del ofensor.", "lectura": "arendt1993"},
+    {"error": "Presentar las conexiones entre autores como si estuvieran en los textos.", "correcto": "Casi ningún autor del curso cita a los otros. García Durán (2023) y Keyes citan a Lederach, y la Enciclopedia lo menciona. Las demás conexiones son tuyas, y en un ensayo hay que decirlo.", "lectura": null}
+  ]
+}

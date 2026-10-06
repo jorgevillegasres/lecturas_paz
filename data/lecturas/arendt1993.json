@@ -1,0 +1,83 @@
+{
+  "id": "arendt1993",
+  "modulos": ["M5-7"],
+  "tipo": "obligatoria",
+  "autor": "Arendt, Hannah",
+  "autorCorto": "Arendt",
+  "anio": 1993,
+  "titulo": "Irreversibilidad y el poder de perdonar (§33)",
+  "obra": "La condición humana, cap. V \"Acción\"",
+  "editorial": "Paidós",
+  "paginas": "255-264",
+  "notaPaginas": "La cita del syllabus es pp. 255-262. El §33 empieza en la mitad inferior de la p. 255 (la mitad superior cierra el §32) y termina en la p. 261. La promesa tiene su propio parágrafo, el §34 (pp. 262-265); el PDF recortado llega a la p. 264 para no cortar el §34 a mitad de frase. Las notas finales 74-84 no están en el escaneo: lo que se dice de ellas se reconstruyó desde la edición inglesa (The Human Condition, 1958) y está por verificar en la edición Paidós.",
+  "formato": "escaneado",
+  "metodoLectura": "Lectura visual página por página de las 11 imágenes del escaneo, con las páginas impresas de la edición Paidós.",
+  "resumen": "Arendt sostiene que la acción humana tiene dentro de sí un remedio contra la irreversibilidad de lo hecho: la facultad de perdonar, que es política, depende de la pluralidad y se complementa con la promesa (§34).",
+  "tesis": "Frente a la irreversibilidad, la acción encuentra su remedio en sí misma y no en una facultad superior: el perdón, junto con la promesa como remedio a la impredecibilidad (p. 256). Ambas facultades dependen de la pluralidad, porque nadie se perdona ni se obliga solo ante sí mismo (p. 257). El perdón rompe el automatismo de la venganza, tiene en el castigo su alternativa y encuentra su límite en lo imperdonable, el \"mal radical\" (pp. 259-260). Se dirige al \"quién\" y no al \"qué\", y en lo público lo sostiene el respeto, no el amor (pp. 260-261). Sin perdón quedaríamos atados a las consecuencias de un solo acto, sin libertad para volver a comenzar (pp. 256-259).",
+  "estructura": [
+    {"seccion": "Cierre del §32: libertad sin soberanía (puente al §33)", "paginas": "255"},
+    {"seccion": "§33: redenciones externas frente a remedio interno; perdón y promesa", "paginas": "255-257"},
+    {"seccion": "§33: pluralidad, crítica al modelo platónico y peligro de actuar sobre la naturaleza", "paginas": "257-258"},
+    {"seccion": "§33: Jesús de Nazaret como descubridor del perdón; parcere subiectis y conmutación", "paginas": "258-259"},
+    {"seccion": "§33: perdón y venganza, castigo, mal radical", "paginas": "259-260"},
+    {"seccion": "§33: perdón, amor y respeto; nadie se perdona a sí mismo", "paginas": "260-261"},
+    {"seccion": "§34: la imposibilidad de predecir y el poder de la promesa", "paginas": "262-264"}
+  ],
+  "conceptos": [
+    {"termino": "Irreversibilidad", "definicion": "Predicamento de la acción: no se puede deshacer lo hecho, aunque no se supiera ni pudiera saberse lo que se estaba haciendo. Su remedio es el perdón.", "pagina": "256"},
+    {"termino": "Impredecibilidad", "definicion": "La \"caótica inseguridad del futuro\", que nace de la oscuridad del corazón humano y de no poder prever las consecuencias en una comunidad de iguales. Su remedio es hacer y mantener promesas.", "pagina": "256, 262"},
+    {"termino": "Facultad de perdonar", "definicion": "Potencialidad de la misma acción que sirve para deshacer los actos del pasado. Es política y no solo religiosa o moral, y libera tanto a quien perdona como al perdonado.", "pagina": "256, 259-260"},
+    {"termino": "Promesa", "definicion": "Facultad que crea \"islas de seguridad\" en un océano de inseguridad. Corresponde a la libertad en condiciones de no-soberanía y pierde su poder vinculante si pretende cubrir todo el futuro.", "pagina": "256, 262-263"},
+    {"termino": "Pluralidad", "definicion": "Condición de la que dependen perdón y promesa: requieren la presencia y actuación de otros. El perdón o la promesa en soledad carecen de realidad.", "pagina": "257"},
+    {"termino": "No-soberanía", "definicion": "La libertad humana no equivale a dominio de sí y de las consecuencias. El agente nunca es autor soberano de lo que desata en la trama de relaciones.", "pagina": "255"},
+    {"termino": "Perdón frente a venganza", "definicion": "La venganza es una reacción natural, automática y calculable que mantiene la reacción en cadena. El perdón actúa de nuevo y de forma inesperada, por eso conserva algo del carácter original de la acción.", "pagina": "259-260"},
+    {"termino": "Castigo como alternativa", "definicion": "El castigo es la alternativa del perdón, no su opuesto: ambos ponen fin a algo que seguiría sin término. No se puede perdonar lo que no se puede castigar ni castigar lo imperdonable.", "pagina": "260"},
+    {"termino": "Mal radical (lo imperdonable)", "definicion": "Ofensas que no se pueden castigar ni perdonar y que trascienden la esfera de los asuntos humanos y el poder humano. El término viene de Kant.", "pagina": "260"},
+    {"termino": "El \"quién\" y el \"qué\"", "definicion": "Se perdona lo hecho por amor a quien lo hizo. El amor ve al quién más allá de virtudes, defectos o transgresiones, pero es antipolítico porque destruye el mundo que relaciona y separa.", "pagina": "260-261"},
+    {"termino": "Respeto (philia politikē)", "definicion": "Equivalente público del amor: una amistad sin intimidad ni proximidad, consideración a distancia que no depende de los méritos. Basta para perdonar en la esfera pública.", "pagina": "261"},
+    {"termino": "Natalidad", "definicion": "Capacidad de empezar algo nuevo, en la que descansa la acción. El perdón la repite dentro de la trama de relaciones, y en el cierre del §34 es el milagro que salva al mundo.", "pagina": "259, 264"}
+  ],
+  "evidente": [
+    "Arendt dice que la acción tiene dos remedios internos: el perdón frente a la irreversibilidad y la promesa frente a la impredecibilidad, y que ambos dependen de la pluralidad (pp. 256-257).",
+    "Atribuye a Jesús de Nazaret el descubrimiento del papel del perdón en los asuntos humanos y propone leerlo en sentido secular; el deber de perdonar se funda en que \"no saben lo que hacen\" y no alcanza el mal voluntario y extremo (pp. 258-259).",
+    "Presenta el castigo como alternativa del perdón y no como su contrario, y señala que lo imperdonable tampoco puede castigarse (p. 260).",
+    "Sostiene que el amor es antipolítico y que en la esfera pública el respeto basta para perdonar; además, nadie puede perdonarse a sí mismo (pp. 260-261)."
+  ],
+  "noEvidente": [
+    {"titulo": "Un perdón político y secularizado", "texto": "El gesto más audaz del texto es sacar el perdón de la teología y de la moral privada y ponerlo entre las capacidades políticas. Lo que interesa es su estructura: un acto nuevo, imprevisible y plural que interrumpe un proceso. \"Personal\" no significa \"privado\" (p. 260), así que puede ser un acto público.", "inferencia": false},
+    {"titulo": "Aplicable a procesos colectivos, con cautela", "texto": "Como el perdón puede ser personal sin ser privado, sirve para pensar el perdón en procesos colectivos. Pero Arendt no habla del perdón entre Estados ni entre grupos.", "inferencia": true},
+    {"titulo": "Ni arrepentimiento obligatorio ni perdón incondicional", "texto": "Arendt cita Lucas 17:3-4, donde aparece \"me arrepiento\", pero no fija el arrepentimiento como condición: el fundamento es \"no saben lo que hacen\" (p. 259). El límite no está en la actitud del ofensor sino en la naturaleza del acto (transgresión frente a mal voluntario y extremo). La lectura de metanoein como \"cambio de mente\" viene de la nota 80, por verificar en la edición Paidós.", "inferencia": true},
+    {"titulo": "Lo imperdonable y los crímenes atroces", "texto": "El principio de que no se perdona lo que no se puede castigar (p. 260) ilumina los crímenes que superan la escala de la pena y del perdón. En Colombia dialoga con la exclusión de la amnistía para crímenes de lesa humanidad, crímenes de guerra graves y genocidio (Acuerdo de 2016, punto 5; Ley 1820 de 2016). Arendt no lo formula así: es una lectura aplicada.", "inferencia": true},
+    {"titulo": "El Estado no perdona en nombre de las víctimas", "texto": "Perdón y castigo cumplen la misma función de cerrar un proceso, lo que ayuda a leer las sanciones propias de la JEP. Pero para Arendt el perdón es un acto de personas: el Estado puede conmutar, amnistiar o sancionar (p. 258), no perdonar por las víctimas. Esto conecta con el debate sobre el perdón no exigible.", "inferencia": true},
+    {"titulo": "El acuerdo de paz como promesa", "texto": "El Acuerdo Final de 2016 puede leerse como una promesa mutua entre partes no soberanas que fija islas de seguridad en un futuro incierto. La advertencia de la p. 263 vale aquí: si pretende cubrir todo el futuro, pierde su poder vinculante. La brecha de implementación sería el riesgo propio de la promesa.", "inferencia": true},
+    {"titulo": "Sin autoperdón", "texto": "El autoperdón carece de realidad (pp. 257, 261). Esto cuestiona a los victimarios que dicen estar en paz consigo mismos o con Dios sin encuentro con las víctimas, y encaja con la centralidad de las víctimas en el SIVJRNR.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "La posible redención del predicamento de irreversibilidad [...] es la facultad de perdonar.", "pagina": "256"},
+    {"texto": "nadie puede perdonarse ni sentirse ligado por una promesa hecha únicamente a sí mismo", "pagina": "257"},
+    {"texto": "perdonar es la única reacción que no reactúa simplemente, sino que actúa de nuevo y de forma inesperada", "pagina": "259"},
+    {"texto": "incapaces de perdonar lo que no pueden castigar e incapaces de castigar lo que ha resultado ser imperdonable", "pagina": "260"}
+  ],
+  "cruces": [
+    {"con": "lederach1998", "texto": "La misericordia del lugar de encuentro de Lederach se parece al perdón arendtiano porque mira al nuevo comienzo, y su énfasis en la relación y el reconocimiento se acerca más al respeto que al amor. Arendt aporta un límite que Lederach no subraya: lo imperdonable.", "inferencia": true},
+    {"con": "garciaduran2018", "texto": "Los procesos sociales y colectivos de perdón pueden dialogar con la idea de un perdón personal pero no necesariamente privado (p. 260). Hay una tensión: Arendt no teoriza el perdón colectivo.", "inferencia": true},
+    {"con": "mouly2022", "texto": "El poder como actuar concertado sostenido por promesas mutuas (p. 263) sirve para leer las comunidades de paz como espacios donde las promesas recíprocas generan poder sin violencia.", "inferencia": true},
+    {"con": "keyes2019", "texto": "El perdón como remedio a la irreversibilidad y la promesa como remedio a la impredecibilidad pueden leerse en el enfoque del perdón como giro ético y en la dualidad pasado/futuro del mapa de Keyes. El agonismo minimalista (Schaap) también tiene raíz arendtiana. Keyes no cita a Arendt.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué el perdón es, para Arendt, un remedio interno a la acción y no una facultad superior que la redime desde fuera?", "orientacion": "La labor se redime por el trabajo y el trabajo por la acción, pero la acción no tiene instancia superior (p. 256). El perdón es otra acción: nueva, imprevisible y plural, que repite la natalidad (p. 259). Por eso es político: ocurre entre personas."},
+    {"pregunta": "¿Qué relación hay entre perdón, venganza y castigo?", "orientacion": "La venganza es automática y perpetúa la cadena; el perdón la interrumpe y libera a ambos (pp. 259-260). El castigo es la alternativa del perdón, no su contrario, y los dos ponen fin. El límite común es lo imperdonable (p. 260)."},
+    {"pregunta": "¿Exige Arendt arrepentimiento para perdonar? ¿Qué es lo imperdonable?", "orientacion": "El fundamento es \"no saben lo que hacen\", no el arrepentimiento (p. 259); la lectura de metanoein como cambio de mente (n. 80) está por verificar. Lo imperdonable es el mal extremo y voluntario, el mal radical, que trasciende el poder humano (pp. 259-260)."},
+    {"pregunta": "¿Por qué el amor no puede ser el fundamento político del perdón y qué lo reemplaza?", "orientacion": "El amor ve al quién, pero destruye el \"en medio\" del mundo y es antipolítico (pp. 260-261). Lo reemplaza el respeto, una consideración a distancia que no depende de los méritos y basta para perdonar (p. 261)."},
+    {"pregunta": "¿En qué sentido un acuerdo de paz es una promesa arendtiana y cuáles son sus límites?", "orientacion": "La promesa compensa la impredecibilidad y sustituye la soberanía por un propósito acordado que genera poder entre muchos (pp. 262-263). Solo funciona como isla: si cubre todo el futuro, pierde fuerza vinculante (p. 263). Depende de que otros confirmen el cumplimiento (p. 257)."}
+  ],
+  "ejes": {
+    "paz": "El texto no habla de paz de forma directa. El perdón y la promesa son las facultades que permiten salir de la reacción en cadena y volver a comenzar (pp. 256-260).",
+    "actores": "El perdón es un acto de personas en pluralidad; las instituciones solo pueden conmutar penas o perdonar al vencido (parcere subiectis), prerrogativa de los jefes de Estado (p. 258).",
+    "poder": "El poder surge cuando la gente actúa de común acuerdo y se mantiene por la mutua promesa; la soberanía solo tiene una realidad limitada entre muchos vinculados por promesas (p. 263).",
+    "genero": null,
+    "reconciliacion": "El texto no usa el término. El perdón libera a quien perdona y al perdonado y permite que la vida prosiga, pero tiene límite en lo imperdonable (pp. 259-260).",
+    "tiempo": "El perdón trata el pasado (lo irreversible) y la promesa el futuro (lo impredecible); sin ellos, los pecados del pasado cuelgan sobre cada nueva generación (p. 256)."
+  },
+  "palabrasClave": ["perdón", "promesa", "irreversibilidad", "impredecibilidad", "pluralidad", "castigo", "mal radical", "respeto", "natalidad", "acción"]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "keyes2019",
+  "modulos": ["M5-7"],
+  "tipo": "obligatoria",
+  "autor": "Keyes, Simon",
+  "autorCorto": "Keyes",
+  "anio": 2019,
+  "titulo": "Mapping on Approaches to Reconciliation",
+  "obra": null,
+  "editorial": "The Network for Religious and Traditional Peacemakers",
+  "paginas": "4-16",
+  "notaPaginas": "La lectura asignada son las secciones 1 a 6 (pp. 4-16) de un documento de 24 pp. El prólogo (p. 3), los diez ejemplos ilustrativos (pp. 17-23) y las referencias (p. 24) quedan fuera, aunque se leyeron para contexto. Los apéndices 1 y 2 no vienen en el PDF. La página del PDF coincide con la impresa.",
+  "formato": "digital",
+  "metodoLectura": "Texto extraído del PDF y leído completo (24 pp.), con foco en las pp. 4-16; las citas se conservan en inglés.",
+  "resumen": "Informe breve de mapeo que constata que no hay acuerdo sobre qué es la reconciliación, identifica un consenso mínimo y ordena el campo en tipologías, diez enfoques, críticas y una reflexión sobre la figura del reconciliador.",
+  "tesis": "Keyes parte de que no hay consenso sobre qué es la reconciliación ni sobre cómo hacerla, y de que el contexto lo es todo (pp. 5, 7). Aun así identifica un consenso mínimo de cinco puntos y la define como meta y proceso a la vez (p. 7). Propone diez maneras de mirarla, como ilustración y no como clasificación, y reconoce sus sesgos occidentales y liberales (pp. 8-14). Descarta la expresión \"transformative reconciliation\" por sus usos contradictorios (p. 13). Entiende al reconciliador como catalizador y equipo, y pide definir mejor al \"insider reconciler\", cuyo valor está en cuestionar la importación de expertos (pp. 14-16).",
+  "estructura": [
+    {"seccion": "1. Background: origen del encargo y método", "paginas": "4"},
+    {"seccion": "2. Defining Reconciliation (Figs. 1-3)", "paginas": "5-7"},
+    {"seccion": "3. Ten Ways of Looking at Reconciliation (Figs. 4-7) y nota sobre \"Transformative Reconciliation\"", "paginas": "8-13"},
+    {"seccion": "4. Critiques", "paginas": "14"},
+    {"seccion": "5. What is \"a Reconciler\"? (Fig. 8) e \"Insider Reconcilers\"", "paginas": "14-16"},
+    {"seccion": "6. Ten Research Questions", "paginas": "16"}
+  ],
+  "conceptos": [
+    {"termino": "Consenso mínimo de cinco puntos", "definicion": "La reconciliación es el medio para pasar de un pasado dividido a un futuro compartido (Bloomfield et al. 2003); implica reconstruir confianza y relaciones; es un proceso largo, a veces de varias generaciones; no se impone, solo se elige; y opera en cinco estratos (político, institucional, comunitario, interpersonal e individual).", "pagina": "7"},
+    {"termino": "Meta y proceso", "definicion": "La reconciliación es a la vez un estado final (Bar-Tal) y un camino (Lederach 2001). Una tercera lectura, la \"equilibrium solution\" de Meierhenrich, la acerca a la resolución alternativa de disputas y choca con la rendición de cuentas.", "pagina": "7"},
+    {"termino": "Vertical / horizontal", "definicion": "Vertical es la relación entre individuo y Estado (confianza, derechos, rendición de cuentas tras abusos de DD.HH.). Horizontal son las relaciones entre individuos, comunidades y sociedades (disculpa, perdón, reparación, reintegración de ofensores).", "pagina": "5"},
+    {"termino": "Thin / thick", "definicion": "Según Seils (ICTJ), la reconciliación thin es coexistencia con poca o ninguna confianza, respeto o valores compartidos. La thick restaura la dignidad, revierte causas estructurales de marginación y devuelve a las víctimas su lugar como titulares de derechos y ciudadanas.", "pagina": "5"},
+    {"termino": "Fig. 2: tipos y niveles (Strupinskienė 2017)", "definicion": "Matriz de 18 tipos que cruza tres ámbitos (político, económico, social), tres niveles (individual, comunal, nacional) y dos densidades (thin y thick). Se construyó a partir de los 70 autores más citados de la justicia transicional.", "pagina": "6"},
+    {"termino": "Espectro de Verdeja (Fig. 3)", "definicion": "Va de un polo minimalista (\"moving on\": cese de la violencia, Estado de derecho, política agonística) a uno maximalista (\"transformation\": sanación, perdón, reparación moral). En el centro deliberativo (\"reform\") Keyes ubica la justicia transicional.", "pagina": "6"},
+    {"termino": "Los diez enfoques", "definicion": "Nuevas normas sociales (Verdeja); lugar de encuentro (Lederach); hebras entrelazadas (Hamber y Kelly); coexistencia frente a cohesión social; herida y reparación moral (Philpott, Walker); imaginación moral; identidad y conflicto intergrupal (Volkan); incorporación narrativa (Auerbach); encuentros víctima/perpetrador; intervenciones psicosociales o sanación (Botcharova). Son ilustración, no clasificación.", "pagina": "8-13"},
+    {"termino": "Transformative reconciliation", "definicion": "Etiqueta usada de modos opuestos: intervención psicosocial micro orientada al cambio cognitivo (Friedman) o transformación estructural (Giri). Por esa contradicción Keyes la considera poco útil.", "pagina": "13"},
+    {"termino": "Reconciliador como catalizador", "definicion": "Como un catalizador, acelera la reacción sin transformarse y se une por un tiempo a ambas partes hasta que la reacción es posible. Keyes reconoce que el perfil de habilidades (Fig. 8) es idealizado y que el trabajo se hace en equipos.", "pagina": "14-15"},
+    {"termino": "Insider reconciler", "definicion": "Término tomado de la mediación interna (insider-partial, Wehr y Lederach 1991; Mason/Berghof): actor parcial pero confiable para ambos lados, que compensa la falta de neutralidad con conocimiento del contexto. Keyes señala tres dificultades y pide definirlo mejor; su valor está en cuestionar la importación de expertos.", "pagina": "16"}
+  ],
+  "evidente": [
+    "Keyes dice que no hay acuerdo sobre la definición de reconciliación ni sobre cómo hacerla, y que discutir su definición es casi un campo de estudio propio (p. 5).",
+    "Presenta un consenso mínimo de cinco puntos y dos tipologías (Strupinskienė y Verdeja) para ordenar el campo (pp. 5-7).",
+    "Expone diez enfoques y cinco críticas: sesgo occidental-liberal, desatención a lo local, ocultamiento de la violencia estructural, crítica feminista y seducción de los modelos elegantes (pp. 8-14).",
+    "Concluye que el reconciliador es un catalizador que trabaja en equipo y que el insider reconciler necesita mejor definición (pp. 14-16)."
+  ],
+  "noEvidente": [
+    {"titulo": "Lugar de enunciación", "texto": "El documento lo encarga una red de actores religiosos y tradicionales financiada desde Finn Church Aid. El encargo pide legitimar al insider religioso y el autor lo acepta solo con condiciones. Eso le da credibilidad, pero el prólogo se lee como agenda institucional.", "inferencia": true},
+    {"titulo": "Red religiosa, marco secular", "texto": "Lo religioso aparece en el prólogo, los insiders, musalaha y sulh, el Xeer y algunos casos. Pero el cuerpo conceptual de la sección 3 es casi todo secular: psicología social, justicia transicional y filosofía moral. Keyes advierte que los insiders tradicionales cargan con \"patriarchy, bias and self-interest\" (p. 16).", "inferencia": true},
+    {"titulo": "Sesgo anglosajón", "texto": "Casi todas las referencias están en inglés y el canon es el de la justicia transicional. No hay autores latinoamericanos en el marco conceptual; Orozco, por ejemplo, no aparece.", "inferencia": true},
+    {"titulo": "Niveles lógicos mezclados", "texto": "Los diez enfoques combinan normas políticas, metáforas, modelos empíricos, debates, teorías psicológicas y técnicas. Conviene reordenarlos con los ejes de las Figs. 2 y 3.", "inferencia": true},
+    {"titulo": "Falta una teoría del poder y del Estado", "texto": "La dimensión vertical se nombra (p. 5) pero no se desarrolla. Casi todo el peso cae en lo horizontal y psicosocial.", "inferencia": true},
+    {"titulo": "Género y Colombia, en los márgenes", "texto": "El género aparece en un párrafo de crítica feminista, la pregunta 5 y el caso de Bosnia, sin un enfoque propio entre los diez. Colombia aparece como caso (ESPERE, fuera de la lectura asignada) y el concepto insider-partial nace de Centroamérica, cosa que Keyes no destaca.", "inferencia": false}
+  ],
+  "citas": [
+    {"texto": "Reconciliation's basic problem is that no-one agrees how to define it or do it.", "pagina": "5"},
+    {"texto": "Context is everything.", "pagina": "7"},
+    {"texto": "Forgiveness, for instance, however unconditional, does not release perpetrators from the requirement of reparation.", "pagina": "11"},
+    {"texto": "Whilst such fundamentally contradictory uses of the term persist, I suggest it is not a helpful phrase.", "pagina": "13"}
+  ],
+  "cruces": [
+    {"con": "lederach1998", "texto": "Keyes ubica a Lederach en dos enfoques: el lugar de encuentro (verdad, misericordia, justicia y paz) y la imaginación moral. Es el autor más presente y Keyes cierra las críticas con él.", "inferencia": false},
+    {"con": "garciaduran2018", "texto": "La distinción de García Durán entre escuela de la reconciliación, justicia transicional y dealing with the past encaja con el espectro de Verdeja: la justicia transicional en el centro deliberativo y la escuela de la reconciliación hacia lo maximalista. Sus cinco preguntas pueden responderse con el mapa de Keyes.", "inferencia": true},
+    {"con": "arendt1993", "texto": "El perdón arendtiano como remedio a la irreversibilidad y la promesa como remedio a la impredecibilidad caben en el enfoque del perdón como giro ético y en la dualidad pasado/futuro. El agonismo minimalista (Schaap) también es arendtiano. Keyes no cita a Arendt.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Qué distingue la reconciliación thin de la thick y cómo se relaciona con el espectro de Verdeja?", "orientacion": "Thin es coexistencia sin confianza; thick es dignidad, cambio estructural y víctimas como ciudadanas (Seils, p. 5). Corresponden a los polos minimalista y maximalista, con la justicia transicional en el centro (p. 6). En la Fig. 2, thin/thick se cruza además con niveles y ámbitos."},
+    {"pregunta": "¿Por qué Keyes rechaza \"transformative reconciliation\" si era parte del encargo?", "orientacion": "Porque el término se usa para cosas opuestas: cambio cognitivo micro (Friedman) y transformación estructural (Giri) (p. 13). Obliga a precisar qué se transforma."},
+    {"pregunta": "Reconstruya la tensión entre reconciliación y justicia en el texto.", "orientacion": "Aparece en la solución de equilibrio frente a la rendición de cuentas (p. 7), en misericordia frente a justicia con la amnistía sudafricana (p. 8) y en el castigo entre las prácticas de Philpott, más el perdón que no exime de reparar (pp. 10-11). Keyes la trata como paradoja sin resolverla."},
+    {"pregunta": "¿Qué es un insider reconciler, qué promete y qué límites tiene? Aplíquelo a Colombia.", "orientacion": "Viene del insider-partial (Wehr y Lederach; Mason/Berghof): parcial pero confiable y conocedor del contexto (p. 16). Promete superar la dependencia de expertos externos. Límites: la reconciliación es más amplia que la mediación, la aceptación a largo plazo es dudosa y pueden faltar habilidades. En Colombia: líderes religiosos, autoridades indígenas, consejos comunitarios, Juntas de Acción Comunal."},
+    {"pregunta": "¿Qué críticas formula Keyes y cuáles deja subdesarrolladas?", "orientacion": "Formula cinco en la p. 14: sesgo occidental, desatención a lo local, ocultamiento de lo estructural, crítica feminista y modelos elegantes. Deja sin desarrollar lo decolonial, el género, la economía política, el Estado y la genealogía cristiana del término."}
+  ],
+  "ejes": {
+    "paz": "La reconciliación es el paso de un pasado dividido a un futuro compartido; el espectro va de la coexistencia sin violencia a la transformación social (pp. 6-7).",
+    "actores": "Estratos político, institucional, comunitario, interpersonal e individual (p. 7); el reconciliador como catalizador y equipo, y los insiders tradicionales y de fe (pp. 14-16).",
+    "poder": "La dimensión vertical (individuo-Estado) se nombra pero no se desarrolla (p. 5); la crítica al enfoque relacional señala que oculta la violencia estructural (p. 14).",
+    "genero": "Tratamiento marginal: un párrafo de crítica feminista sobre la continuidad de estructuras patriarcales (p. 14) y una pregunta de investigación sobre diferencias entre hombres y mujeres (p. 16).",
+    "reconciliacion": "Concepto sin definición consensuada, a la vez meta y proceso, que no se impone sino que se elige y depende del contexto (pp. 5-7).",
+    "tiempo": "Proceso largo, a veces de varias generaciones (p. 7); en el lugar de encuentro de Lederach hay tensión entre tres tiempos (p. 8)."
+  },
+  "palabrasClave": ["reconciliación", "thin/thick", "vertical/horizontal", "espectro minimalista-maximalista", "justicia transicional", "reconciliador", "insider reconciler", "imaginación moral", "reparación moral", "cohesión social"]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rojas2012",
+  "modulos": ["M3"],
+  "tipo": "obligatoria",
+  "autor": "Rojas, Catalina",
+  "autorCorto": "Rojas",
+  "anio": 2012,
+  "titulo": "La dimensión no tan conocida: el enfoque de género como una herramienta para analizar la construcción de paz",
+  "obra": "Construcción de paz en Colombia (A. Rettberg, comp.), cap. 14",
+  "editorial": "Uniandes",
+  "paginas": "437-461",
+  "notaPaginas": "El syllabus da pp. 437-458 y usa como título \"Las mujeres en la historia de la construcción de la paz en Colombia\", que es en realidad el encabezado de la sección 3 (pp. 451-458). El capítulo completo va de la p. 437 a la 461: la conclusión termina en la p. 459 y las pp. 459-461 son referencias. La autora es Catalina Rojas, no Cristina Rojas (a quien cita en la p. 442).",
+  "formato": "escaneado",
+  "metodoLectura": "Lectura visual página por página de las 25 imágenes del escaneo, todas legibles.",
+  "resumen": "Rojas propone el enfoque de género como herramienta analítica para estudiar conflictos y construcción de paz. Lo aplica a casos internacionales y a la historia del movimiento de mujeres por la paz en Colombia hasta 2011.",
+  "tesis": "El enfoque de género es una herramienta útil, aunque no la única, para entender los conflictos armados y la construcción de paz (pp. 437-438). Sirve para caracterizar los conflictos, identificar actores, roles, riesgos y oportunidades, y diseñar políticas diferenciadas y más sostenibles (pp. 438, 458-459). La autora rechaza que el género sea una moda impuesta por los donantes (p. 458). En Colombia, la literatura trata más de \"mujer y conflicto\" que de género como categoría relacional (p. 442), pero el movimiento de mujeres por la paz es el sector que más ha empujado el debate. Para Rojas, los conflictos son a la vez tragedia y oportunidad para renegociar las relaciones de poder entre hombres y mujeres (pp. 444, 458-459).",
+  "estructura": [
+    {"seccion": "Introducción", "paginas": "437-438"},
+    {"seccion": "1. Un breve recorrido por la literatura de género, conflicto y construcción de paz (orígenes, estudios centrales, nuevas direcciones, Colombia)", "paginas": "439-444"},
+    {"seccion": "2. Experiencias internacionales (VSG, antigua Yugoslavia, África, El Salvador)", "paginas": "444-451"},
+    {"seccion": "3. Las mujeres en la historia de la construcción de paz en Colombia", "paginas": "451-458"},
+    {"seccion": "3.1 Tendencias del movimiento de mujeres por la paz: coincidencias y diversidad", "paginas": "455-458"},
+    {"seccion": "Conclusión: pensar la paz desde una perspectiva de género", "paginas": "458-459"},
+    {"seccion": "Referencias", "paginas": "459-461"}
+  ],
+  "conceptos": [
+    {"termino": "Género frente a mujer", "definicion": "No son sinónimos. En su forma más simple, el género son los roles socialmente construidos que se atribuyen a hombres o a mujeres, como asignar a la mujer el cuidado de los niños.", "pagina": "437"},
+    {"termino": "Niveles del género (Zarkov)", "definicion": "El género no se reduce a individuos y roles. Opera también en lo institucional, lo ideológico y lo simbólico (los cuerpos como símbolos de la nación) y no existe fuera de las relaciones de poder. Se cruza con clase, edad y etnicidad.", "pagina": "437-438"},
+    {"termino": "Pregunta del cuidado", "definicion": "Si los hombres asumieran el cuidado de los niños, ¿cambiaría la actitud social ante la guerra? La autora la usa como puerta de entrada y aclara que no pretende probarla ni descalificarla.", "pagina": "437"},
+    {"termino": "Enfoque o perspectiva de género (Sikoska y Solomon)", "definicion": "Consiste en preguntar si hombres y mujeres portan valores distintos y si tienen igual acceso a los recursos en disputa, a los factores que regulan ese acceso e iguales intereses. Si los conflictos nacen de diferencias de intereses, la identidad de género pesa en su origen y en la paz.", "pagina": "443"},
+    {"termino": "Mujeres como víctimas, combatientes y constructoras de paz", "definicion": "La literatura las estudia en tres papeles. Como combatientes suelen quedar ignoradas en el DDR, y su presencia en las negociaciones es mínima y poco reconocida.", "pagina": "440"},
+    {"termino": "Resolución 1325 de 2000", "definicion": "Resolución \"Mujer, paz y seguridad\", antecedida por Beijing 1995. Reafirma el papel de la mujer en la prevención y resolución de conflictos y pide aumentar su participación en las decisiones.", "pagina": "439"},
+    {"termino": "Masculinidades", "definicion": "Es una \"nueva dirección\" de la literatura: el papel de los hombres y las masculinidades en la guerra, la paz y la reconciliación. Los hombres como víctimas apenas empiezan a recibir atención.", "pagina": "441-442"},
+    {"termino": "Violencia sexual de género (VSG)", "definicion": "Violencia que atenta contra las normas de género para desmoralizar a la población. Las mujeres la sufren de forma desproporcionada, pero hombres y mujeres pueden ser víctimas. Puede ser política, económica o social (Cuadro 14.1) y es una estrategia de guerra, no hechos aislados.", "pagina": "444-445"},
+    {"termino": "Renegociación de roles", "definicion": "La guerra puede alterar los roles tradicionales de género. Los programas de reinserción deberían potenciar esos cambios en vez de revertirlos.", "pagina": "444, 450-451"},
+    {"termino": "Participación institucional frente a resistencia", "definicion": "Las organizaciones de mujeres coinciden en preferir la salida negociada y en pedir justicia para las víctimas. Se diferencian por su distancia frente al régimen: unas participan en las instituciones y otras resisten.", "pagina": "455"}
+  ],
+  "evidente": [
+    "Rojas presenta el género como categoría relacional y de poder, y critica que los estudios colombianos sean más sobre \"mujer y conflicto\" que sobre género (pp. 437-438, 442).",
+    "Identifica tres momentos de la participación de las mujeres en la paz en Colombia: la Constitución de 1991, los diálogos del Caguán (1999-2002) con la Audiencia de Mujeres, y la desmovilización paramilitar con la Ley 975 de 2005 (pp. 451-454).",
+    "Los casos internacionales (ICTY, Marwopnet, El Salvador, Irlanda del Norte) muestran que las mujeres pasan de víctimas a agentes de paz, pero también que tener mujeres en la mesa no asegura una perspectiva de género en la reinserción (pp. 446-450, 459)."
+  ],
+  "noEvidente": [
+    {"titulo": "El capítulo hace lo que critica", "texto": "Rojas define el género como relacional y cita a Zarkov sobre lo institucional y lo simbólico. Sin embargo, las secciones 2 y 3 tratan casi solo de mujeres y comparan dos polos. Reproduce el sesgo que señala en la literatura colombiana (p. 442).", "inferencia": true},
+    {"titulo": "Esencialismo maternal no problematizado", "texto": "La pregunta del cuidado (p. 437), el argumento de Ecowas sobre las mujeres víctimas \"con sus hijos\" (p. 448) y las Madres de la Candelaria (p. 457) sugieren un vínculo entre maternidad y paz. La autora se distancia, pero no discute el supuesto. Su propio dato del FMLN (30 % de combatientes mujeres) lo contradice.", "inferencia": true},
+    {"titulo": "Ausencia de la población LGBT", "texto": "El texto no menciona sexualidades no normativas ni identidades trans. El enfoque de género de 2012 es un enfoque de mujeres, algo que el Acuerdo de 2016 ampliaría.", "inferencia": true},
+    {"titulo": "Masculinidades mencionadas, no desarrolladas", "texto": "El texto sí nombra las masculinidades (p. 441) y reconoce que los hombres pueden ser víctimas de VSG (p. 444; nota 6, Sivakumaran). No ofrece datos ni casos colombianos de varones víctimas ni analiza masculinidades militarizadas.", "inferencia": false},
+    {"titulo": "Línea de base anterior a La Habana", "texto": "Las referencias internas sitúan el texto en 2011. Su queja por la falta de una agenda única y de presencia en la mesa (pp. 456-457) es lo que el proceso de 2012-2016 intentó corregir. Sirve como registro de la demanda acumulada antes del Acuerdo Final.", "inferencia": true},
+    {"titulo": "Reconciliación sin teoría", "texto": "La reconciliación aparece como horizonte (pp. 438, 441, 459), pero no se desarrolla. El rechazo a las excombatientes salvadoreñas y la estigmatización de las desmovilizadas en Colombia (p. 453) dejan abierta la reintegración comunitaria con enfoque de género.", "inferencia": true},
+    {"titulo": "Autora y parte del movimiento", "texto": "Rojas se cita a sí misma (2004, 2009) y trabajó con el ISS/Hunt Alternatives. Esa posición explica el tono favorable hacia las redes de mujeres. Su crítica a la Ley de Víctimas por omitir lo étnico (p. 454) abre una mirada interseccional que no desarrolla.", "inferencia": true}
+  ],
+  "citas": [
+    {"texto": "la perspectiva de género como una herramienta útil para analizar la construcción de la paz", "pagina": "437"},
+    {"texto": "El género no existe fuera de las relaciones de poder", "pagina": "438 (Zarkov, en Bannon, Bouta y Frerks)"},
+    {"texto": "los estudios en Colombia son más sobre mujer y conflicto armado que sobre miradas de género", "pagina": "442"},
+    {"texto": "el hombre combatiente era recibido en sus comunidades como 'héroe', mientras que la mujer combatiente fue rechazada", "pagina": "450"}
+  ],
+  "cruces": [
+    {"con": "castillo2018", "texto": "Rojas no menciona a la población LGBT. Castillo muestra a ese sector organizándose en Planeta Paz durante el mismo proceso del Caguán que Rojas estudia desde las mujeres.", "inferencia": true},
+    {"con": "gallego2023", "texto": "Rojas anuncia las masculinidades y la violencia sexual contra hombres (pp. 441, 444, nota 6) sin desarrollarlas. Gallego retoma ese vacío para el caso colombiano.", "inferencia": true},
+    {"con": "lederach1998", "texto": "Las organizaciones encajan en la pirámide: negociadoras y Comisión de Notables arriba, Red Nacional, IMP y CNRR en el nivel medio, y OFP, Ruta Pacífica y Madres de la Candelaria en la base. La Audiencia del Caguán funcionó como enlace vertical.", "inferencia": true},
+    {"con": "mouly2022", "texto": "La conclusión trata el conflicto como síntoma de desigualdades (p. 458) y las marchas de la Ruta Pacífica como alternativas culturales al discurso de la guerra (p. 456). Se puede leer como violencia estructural y cultural en sentido galtungiano.", "inferencia": true},
+    {"con": "garciaduran2023", "texto": "La OFP en Barrancabermeja y las organizaciones barriales de Medellín son casos de paz desde abajo comparables con iniciativas comunitarias como las de Aguablanca.", "inferencia": true}
+  ],
+  "preguntas": [
+    {"pregunta": "¿Por qué distingue Rojas entre \"género\" y \"mujer\", y cumple el capítulo esa distinción?", "orientacion": "El género es relacional, opera en varios niveles y existe dentro de relaciones de poder (pp. 437-438). Rojas critica la literatura de \"mujer y conflicto\" (p. 442), pero sus secciones 2 y 3 tratan sobre todo de mujeres. Las masculinidades solo se anuncian (p. 441) y lo LGBT no aparece."},
+    {"pregunta": "¿Qué enseña el caso de El Salvador para un DDR con enfoque de género en Colombia?", "orientacion": "Tener mujeres en la comandancia y en la mesa no garantizó una perspectiva de género: hubo exclusión de las listas de beneficiarios y rechazo comunitario (p. 450). La lección es incluir el género en el diseño de la reinserción (p. 449). Se compara con la estigmatización de las desmovilizadas que registra Tregua incierta (p. 453)."},
+    {"pregunta": "¿Por qué la VSG es una \"estrategia de guerra\" y qué implica para la construcción de paz?", "orientacion": "Según el Cuadro 14.1, la VSG sirve para obtener poder político, económico o social (p. 445). El ICTY la criminalizó como lesa humanidad por presión de organizaciones de mujeres (p. 446). Implica operadores judiciales preparados (p. 454) y reconocer también a víctimas hombres (p. 444)."},
+    {"pregunta": "Ubique las organizaciones de mujeres colombianas en la pirámide de Lederach. ¿Qué nivel privilegia el movimiento?", "orientacion": "Hay mujeres en la mesa y la Comisión de Notables (p. 452), redes de nivel medio y organizaciones de base (pp. 455-457). La autora dice que el grueso del trabajo es comunitario y local (p. 447). La tensión central es participación institucional frente a resistencia (p. 455). La ubicación en la pirámide es una inferencia que hay que argumentar."},
+    {"pregunta": "Leído hoy, ¿qué anticipa y qué no anticipa el capítulo sobre el enfoque de género del Acuerdo de 2016?", "orientacion": "Anticipa la demanda de voz en la mesa (p. 457), la VSG como crimen del conflicto y la crítica a un DDR ciego al género. No anticipa la inclusión de la población LGBTI ni la reacción contra la \"ideología de género\". El cierre sobre el conflicto como tragedia y oportunidad (p. 458) permite discutir si el Acuerdo aprovechó esa oportunidad."}
+  ],
+  "ejes": {
+    "paz": "La paz sostenible requiere transformar las relaciones de género, porque las desigualdades de género facilitan la perpetuación de la violencia (pp. 458-459).",
+    "actores": "Mujeres como víctimas, combatientes y constructoras de paz; organizaciones como la Red Nacional de Mujeres, la IMP, la Ruta Pacífica, la OFP y las Madres de la Candelaria (pp. 440, 455-457).",
+    "poder": "El género existe dentro de relaciones de poder (p. 438), y la VSG sirve para obtener poder político, económico o social (p. 445).",
+    "genero": "Es el eje del texto: el género como herramienta analítica relacional, aunque aplicada sobre todo a mujeres (pp. 437-443).",
+    "reconciliacion": "Aparece como horizonte sin desarrollo teórico (pp. 438, 441, 459). La estigmatización de excombatientes mujeres la deja como tarea pendiente (pp. 450, 453).",
+    "tiempo": "Cubre de la Constitución de 1991 a la Ley de Víctimas de 2011 y es anterior al proceso de La Habana (pp. 451-454)."
+  },
+  "palabrasClave": ["enfoque de género", "Resolución 1325", "violencia sexual de género", "movimiento de mujeres por la paz", "Audiencia de Mujeres del Caguán", "Ley de Justicia y Paz", "DDR", "masculinidades", "renegociación de roles"]
+}

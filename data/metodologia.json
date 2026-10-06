@@ -1,0 +1,55 @@
+{
+  "proposito": "Este sitio organiza el análisis de las lecturas del curso para estudiarlas por módulo, comparar autores y preparar talleres y exámenes. Todo el contenido sale de los documentos de la carpeta de lecturas. No se publican los PDF, que tienen derechos de autor: solo el análisis, con citas breves y su página.",
+  "pasos": [
+    {
+      "titulo": "Inventario de la carpeta",
+      "texto": "Se listaron todos los archivos y se compararon por huella digital (MD5) para detectar duplicados. Se encontraron cuatro copias idénticas, que se apartaron sin borrarlas. Para cada PDF se registró el número de páginas y si tiene capa de texto."
+    },
+    {
+      "titulo": "Localización del rango asignado",
+      "texto": "Con el índice de cada libro y los números de página impresos se estableció la correspondencia entre página del PDF y página impresa. Así se detectaron tres discrepancias con el syllabus: Lederach (cap. IV), Rojas (título y rango) y Arendt (la promesa está en el §34)."
+    },
+    {
+      "titulo": "Lectura completa del rango",
+      "texto": "Los PDF digitales se leyeron a partir del texto extraído, con marcadores de página. Los escaneados no tienen texto: cada página se convirtió en imagen (100 a 170 dpi) y se leyó visualmente, una por una. Las páginas giradas se rotaron antes de leerlas."
+    },
+    {
+      "titulo": "Notas analíticas con estructura fija",
+      "texto": "Cada lectura tiene unas notas con las mismas secciones: referencia y estructura, tesis, conceptos con página, contexto o casos, elementos no evidentes, citas breves y preguntas de examen. Cada afirmación sobre el texto lleva su página impresa."
+    },
+    {
+      "titulo": "Separación entre texto e interpretación",
+      "texto": "Lo que dice el autor y lo que es lectura crítica o conexión con otros textos se marca por separado. En el sitio, la etiqueta \"Inferencia\" señala lo segundo, y un interruptor permite ocultarlo para ver solo lo que está en el texto."
+    },
+    {
+      "titulo": "Síntesis transversal",
+      "texto": "A partir de las fichas se construyeron los seis ejes comparativos, los debates entre autores, las preguntas de repaso y el apoyo para los talleres. Los debates citan la página de cada posición."
+    },
+    {
+      "titulo": "Estructuración y revisión de estilo",
+      "texto": "Cada ficha se convirtió en un archivo JSON con el mismo esquema. La redacción se revisó con criterios de la guía \"Signs of AI writing\" de Wikipedia para quitar frases infladas y fórmulas vacías sin cambiar el contenido."
+    },
+    {
+      "titulo": "Verificación",
+      "texto": "Se validó la sintaxis de cada archivo, que las citas no superen 20 palabras y que toda referencia cruzada apunte a una lectura existente."
+    }
+  ],
+  "fuentes": [
+    {"id": "mouly2022", "archivo": "Mouly (2022) Estudio de Paz y Conflictos - Teoría&Práctica.pdf", "paginasPdf": 324, "formato": "digital", "rangoPdf": "35-74", "rangoImpreso": "13-52", "observacion": "Página impresa = página PDF menos 22."},
+    {"id": "enciclopedia2004", "archivo": "ENCICLOPEDIA DE PAZ #1 a #5.pdf (cinco archivos)", "paginasPdf": 27, "formato": "escaneado", "rangoPdf": "1-27", "rangoImpreso": "885-889, 900-908 y otras", "observacion": "Fotocopias a dos columnas, algunas giradas. La entrada de prevención no muestra número de página. La entrada \"Paz neutra\" está cortada."},
+    {"id": "lederach1998", "archivo": "Lederach (1998) Construyendo-la-paz.pdf", "paginasPdf": 200, "formato": "digital", "rangoPdf": "51-90 y 101-114", "rangoImpreso": "51-90 y 101-114", "observacion": "Página PDF = página impresa. La p. 64 está en blanco."},
+    {"id": "rojas2012", "archivo": "Rojas (2012). Las mujeres en la construc.pdf", "paginasPdf": 25, "formato": "escaneado", "rangoPdf": "1-25", "rangoImpreso": "437-461", "observacion": "Escaneo con subrayados de un lector anterior."},
+    {"id": "castillo2018", "archivo": "Castillo (2018). No somos etcétera..pdf", "paginasPdf": 27, "formato": "escaneado", "rangoPdf": "1-27", "rangoImpreso": "53-79", "observacion": "En las pp. 62 y 79 no se ve el número; la secuencia lo confirma."},
+    {"id": "gallego2023", "archivo": "Masculinidades y violencia sexual contra hombres.pdf", "paginasPdf": 34, "formato": "escaneado", "rangoPdf": "1-34", "rangoImpreso": "71-104", "observacion": "La p. 104 es un testimonio que abre el capítulo 2."},
+    {"id": "garciaduran2023", "archivo": "Garcia-Duran(2023) Claves-para-una-lectura-Iniciativas-Paz-en-Aguablanca.pdf", "paginasPdf": 168, "formato": "digital", "rangoPdf": "17-54", "rangoImpreso": "17-54", "observacion": "Página PDF = página impresa. Texto en pp. 19-49, referencias en pp. 50-54."},
+    {"id": "garciaduran2018", "archivo": "Garcia(2018) - LA RECONCILIACION - Revista Controversia211.pdf", "paginasPdf": 44, "formato": "digital", "rangoPdf": "3-44", "rangoImpreso": "17-58", "observacion": "Página impresa = página PDF más 14."},
+    {"id": "arendt1993", "archivo": "El perdón Arendt.pdf", "paginasPdf": 11, "formato": "escaneado", "rangoPdf": "1-10", "rangoImpreso": "255-264", "observacion": "Las notas finales 74 a 84 no están en el escaneo."},
+    {"id": "keyes2019", "archivo": "Keyes (2019) Mapping-on-Approaches-to-Reconciliation.pdf", "paginasPdf": 24, "formato": "digital", "rangoPdf": "4-16", "rangoImpreso": "4-16", "observacion": "Texto en inglés. Las traducciones de citas son propias."}
+  ],
+  "limitaciones": [
+    "Falta Etxeberria (2019), obligatoria de los módulos 5 a 7, y el Folleto 0 de Herramientas para la Reconciliación que usa el Taller 6. Los dos aparecen como pendientes.",
+    "En los textos escaneados, las citas se transcribieron leyendo la imagen. Antes de citarlas en un trabajo conviene cotejarlas con el PDF.",
+    "Las conexiones entre autores son interpretación: casi ningún autor del curso cita a los demás.",
+    "El análisis se elaboró con asistencia de un modelo de IA (Claude) a partir de los documentos de la carpeta. Es material de estudio, no reemplaza la lectura."
+  ]
+}
